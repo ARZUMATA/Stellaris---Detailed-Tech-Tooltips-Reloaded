@@ -1,2 +1,528 @@
 ﻿l_english:
- technology_tree_title:0 "Technology Tree"
+
+ tech_lasers_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_pd_tracking_1$ (I)§!
+--nnn--- §Y$tech_lasers_3$ (III)§!
+--nnn--- §Y$tech_plasma_1$ (I)§!
+--nnn--- §Y$tech_disruptors_1$ (I)§!
+--nnn--- §YEnergy Weapon Attack Speed:§! §G+5%§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_pd_tracking_2$ (II)§!
+--nnn--- §Y$tech_lasers_4$ (IV)§!
+--nnn--- §Y$tech_plasma_2$ (II)§!
+--nnn--- §Y$tech_disruptors_2$ (II)§!
+--nnn--
+--nnn---- §Y$tech_pd_tracking_3$ (III)§!
+--nnn---- §Y$tech_energy_torpedoes_1$ (I)§!
+--nnn---- §Y$tech_lasers_5$ (V)§!
+--nnn---- §Y$tech_energy_lance_1$ (I)§!
+--nnn---- §YEnergy Weapon Damage:§! §G+5%§!
+--nnn---- §Y$tech_plasma_3$ (III)§!
+--nnn---- §Y$tech_disruptors_3$ (III)§!
+--nnn--
+--nnn----- §Y$tech_energy_torpedoes_2$ (II)§!
+--nnn----- §E$tech_energy_lance_2$ (II)§!
+--nnn----- §Y$tech_arc_emitter_1$ (I)§!
+--nnn--
+--nnn------ §E$tech_arc_emitter_2$ (II)§!
+--nnn----quotes--
+
+ tech_lasers_3_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_lasers_4$ (V)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_energy_torpedoes_1$ (I)§!
+--nnn--- §Y$tech_lasers_5$ (V)§!
+--nnn--- §Y$tech_energy_lance_1$ (I)§!
+--nnn--- §YEnergy Weapon Damage:§! §G+5%§!
+--nnn--
+--nnn---- §Y$tech_energy_torpedoes_2$ (II)§!
+--nnn---- §E$tech_energy_lance_2$ (II)§!
+--nnn----quotes--
+
+ tech_lasers_4_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_energy_torpedoes_1$ (I)§!
+--nnn--- §Y$tech_lasers_5$ (V)§!
+--nnn--- §Y$tech_energy_lance_1$ (I)§!
+--nnn--§YEnergy Weapon Damage:§! §G+5%§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_energy_torpedoes_2$ (II)§!
+--nnn--- §E$tech_energy_lance_2$ (II)§!
+--nnn----quotes--
+
+ tech_lasers_5_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §E$tech_energy_lance_2$ (II)§!
+--nnn----quotes--
+
+ tech_energy_torpedoes_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_energy_torpedoes_2$ (II)§!
+--nnn----quotes--
+
+ tech_pd_tracking_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_pd_tracking_2$ (II)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_pd_tracking_3$ (III)§!
+--nnn----quotes--
+
+ tech_pd_tracking_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_pd_tracking_3$ (III)§!
+--nnn----quotes--
+
+ tech_plasma_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_plasma_2$ (II)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_plasma_3$ (III)§!
+--nnn---- §Y$tech_arc_emitter_1$ (I)§!
+--nnn----- §E$tech_arc_emitter_2$ (II)§!
+--nnn----quotes--
+
+ tech_plasma_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_plasma_3$ (III)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_arc_emitter_1$ (I)§!
+--nnn---- §E$tech_arc_emitter_2$ (II)§!
+--nnn----quotes--
+
+ tech_plasma_3_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_arc_emitter_1$ (I)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §E$tech_arc_emitter_2$ (II)§!
+--nnn----quotes--
+
+ tech_arc_emitter_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §E$tech_arc_emitter_2$ (II)§!
+--nnn----quotes--
+
+ tech_disruptors_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_disruptors_2$ (II)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_disruptors_3$ (III)§!
+--nnn----quotes--
+
+ tech_disruptors_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_disruptors_3$ (III)§!
+--nnn----quotes--
+
+ tech_physics_lab_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding:§! §BPhysics Lab II§!
+--nnn--
+--nnn--- §M$tech_singularity_core$§! 
+--nnn--  §MBuilding:§! Singularity Core
+--nnn--  £blocker Machine Intelligence Only
+--nnn--  §Preq§! £society $tech_galactic_administration$
+--nnn--
+--nnn--- §M$tech_global_research_initiative$§! 
+--nnn--  §MBuilding:§! Research Institute
+--nnn--  £blocker Organic Intelligence Only
+--nnn--  §Preq§! £society $tech_colonial_centralization$
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §YBuilding:§! §BPhysics Lab III/IV§!
+--nnn--- §YBuilding Cost:§! £minerals §G-5%§!
+--nnn----quotes--
+
+ tech_physics_lab_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding:§! §BPhysics Lab III/IV§!
+--nnn--- §YBuilding Cost:§! £minerals §G-5%§!
+--nnn----quotes--
+
+ tech_administrative_ai_desc_tree:0 --quotes--
+--nnn--Unlocks research leading to:
+--nnn--- §YColony Development Speed:§! §G+50%§!
+--nnn--- §Y$tech_combat_computers_1$§!
+--nnn--- §YResearch Alternatives:§! §G+1§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_auxiliary_fire_control$§!
+--nnn--- §Y$tech_combat_computers_2$ (I)§!
+--nnn--- §YColony Development Speed:§! §G+50%§!
+--nnn--- §M$tech_synchronized_defences$§!
+--nnn--- §YResearch Speed:§! §G+5%§!
+--nnn--
+--nnn---- §R$tech_combat_computers_3$ (II)§!
+--nnn---- §R$tech_combat_computers_autonomous$§!
+--nnn--
+--nnn-- $technology_tree_footer$--quotes--
+
+ tech_combat_computers_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_auxiliary_fire_control$§!
+--nnn--- §Y$tech_combat_computers_2$§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §R$tech_combat_computers_3$ (IV)§!
+--nnn--- §R$tech_combat_computers_autonomous$ (IV)§!
+--nnn----quotes--
+
+ tech_combat_computers_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn-- §R$tech_combat_computers_3$ (IV)§!
+--nnn-- §R$tech_combat_computers_autonomous$ (IV)§!
+--nnn----quotes--
+
+ tech_self_aware_logic_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YColony Development Speed:§! §G+50%§!
+--nnn--- §M$tech_synchronized_defences$§!
+--nnn--- §YResearch Speed:§! §G+5%§!
+--nnn----quotes--
+
+tech_biolab_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding:§! §GBiolab Lab II§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §YBuilding:§! §GBiolab Lab III§!
+--nnn---- §YBuilding:§! §GBiolab Lab IV/V§!
+--nnn----quotes--
+
+tech_biolab_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding:§! §GBiolab Lab III§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §YBuilding:§! §GBiolab Lab IV/V§!
+--nnn----quotes--
+
+tech_engineering_lab_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding:§! §HEngineering Facility II§!
+--nnn--- §YBuilding Speed:§! §G+25%§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §YBuilding:§! §HEngineering Facility III/IV§!
+--nnn--- §YBuilding Speed:§! §G+50%§!
+--nnn---- §YBuilding Speed:§! §G+10%§!
+--nnn----quotes--
+
+tech_engineering_lab_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding:§! §HEngineering Facility III/IV§!
+--nnn----quotes--
+
+tech_assembly_pattern_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding Speed:§! §G+50%§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §YBuilding Speed:§! §G+10%§!
+--nnn----quotes--
+
+tech_construction_templates_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding Speed:§! §G+10%§!
+--nnn----quotes--
+
+tech_fusion_power_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_cold_fusion_power$ (II)§!
+--nnn--- §Y$tech_reactor_boosters_2$ (II)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_antimatter_power$ (III)§!
+--nnn---- §Y$tech_reactor_boosters_3$ (III)§!
+--nnn---- §Y$tech_zero_point_power$ (IV)§!
+--nnn----- §P$tech_jump_drive_1$§!
+--nnn----- §M$tech_matter_generator$§!
+--nnn----  §MBuilding:§! Resource Replicator £energy §R-50§! £minerals §G+40§
+--nnn----quotes--
+
+tech_cold_fusion_power_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_antimatter_power$ (III)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_reactor_boosters_3$ (III)§!
+--nnn--- §Y$tech_zero_point_power$ (IV)§!
+--nnn---- §P$tech_jump_drive_1$§!
+--nnn---- §M$tech_matter_generator$§!
+--nnn---  §MBuilding:§! Resource Replicator £energy §R-50§! £minerals §G+40§
+--nnn----quotes--
+
+tech_antimatter_power_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_reactor_boosters_3$ (III)§!
+--nnn--- §Y$tech_zero_point_power$ (IV)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §P$tech_jump_drive_1$§!
+--nnn--- §M$tech_matter_generator$§!
+--nnn--  §MBuilding:§! Resource Replicator £energy §R-50§! £minerals §G+40§
+--nnn----quotes--
+
+tech_shields_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_shields_3$ (III)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_shield_rechargers_1$§!
+--nnn--- §Y$tech_shields_4$ (IV)§!
+--nnn--- §M$tech_planetary_shield_generator$§!
+--nnn--  §MBuilding:§! Planetary Shield Generator
+--nnn--  §G-75%§! Damage from Orbital Bombardment
+--nnn---- §Y$tech_shields_5$ (V)§!
+--nnn---- §YShield Hit Points:§! §G+5%§!
+--nnn----quotes--
+
+tech_shields_3_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_shield_rechargers_1$§!
+--nnn--- §Y$tech_shields_4$ (IV)§!
+--nnn--- §M$tech_planetary_shield_generator$§!
+--nnn--  §MBuilding:§! Planetary Shield Generator
+--nnn--  §G-75%§! Damage from Orbital Bombardment
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_shields_5$ (V)§!
+--nnn--- §YShield Hit Points:§! §G+5%§!
+--nnn----quotes--
+
+tech_shields_4_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_shields_5$ (V)§!
+--nnn--- §YShield Hit Points:§! §G+5%§!
+--nnn----quotes--
+
+ tech_power_hub_1_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_power_hub_2$§!
+--nnn--  §YBuilding:§! Energy Nexus
+--nnn--  £energy §G+20%§! Planetary Production
+--nnn----quotes--
+
+ tech_power_plant_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_power_plant_3$§! (Power Plant III)
+--nnn--- §YCapacity:§! £energy §G+10000§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_power_plant_4$§!
+--nnn--- §YCapacity:§! £energy §G+10000§!
+--nnn--- §YEnergy Credits:§! £energy §G+5%§!
+--nnn----quotes--
+
+ tech_power_plant_3_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_power_plant_4$§!
+--nnn--  §YCapacity:§! £energy §G+10000§!
+--nnn----quotes--
+
+ tech_hyper_drive_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_hyper_drive_3$ (III)§!
+--nnn--- §M$tech_wormhole_stabilization$§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §M$tech_gateway_activation$§!
+--nnn---- §M$tech_gateway_construction$§!
+--nnn----quotes--
+
+ tech_hyper_drive_3_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §M$tech_gateway_activation$§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §M$tech_gateway_construction$§!
+--nnn----quotes--
+
+ tech_gateway_activation_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §M$tech_gateway_construction$§!
+--nnn----quotes--
+
+tech_sensors_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_lythuric_gas$§!
+--nnn--- §Y$tech_sensors_3$ (III)§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_sensors_4$ (IV)§!
+--nnn--- §Y$tech_mine_satramene$§!
+--nnn--- §Y$tech_mine_zro$§!
+--nnn---- §Y$tech_mine_neutronium$§!
+--nnn---- §Y$tech_mine_dark_matter$§!
+--nnn----quotes--
+
+tech_sensors_3_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_sensors_4$ (IV)§!
+--nnn--- §Y$tech_mine_satramene$§!
+--nnn--- §Y$tech_mine_zro$§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §Y$tech_mine_neutronium$§!
+--nnn--- §Y$tech_mine_dark_matter$§!
+--nnn----quotes--
+
+tech_sensors_4_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_mine_neutronium$§!
+--nnn--- §Y$tech_mine_dark_matter$§!
+--nnn----quotes--
+
+tech_ground_defense_planning_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §Y$tech_global_defense_grid$§!
+--nnn--- §YDefense Army Health:§! §G+25%§!
+--nnn--- §YBuilding:§! Fortress
+--nnn----quotes--
+
+tech_hydroponics_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding:§! §GHydroponics Farm III§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §YBuilding:§! §GHydroponics Farm IV/V§!
+--nnn--- £food §G+5%§! Tile
+--nnn---- £food §G+15%§! Tile
+--nnn----quotes--
+
+tech_gene_crops_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YBuilding:§! §GHydroponics Farm IV/V§!
+--nnn--- £food §G+5%§! Tile
+--nnn--
+--nnn--Future research follow up:
+--nnn--- £food §G+15%§! Tile
+--nnn----quotes--
+
+tech_nano_vitality_crops_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- £food §G+15%§! Tile
+--nnn----quotes--
+
+tech_colonization_2_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §HHabitability:§! §G+5%§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §HHabitability:§! §G+5%§!
+--nnn--- §HTomb World Habitability:§! §G+20%§!
+--nnn---- §HHabitability:§! §G+5%§!
+--nnn----quotes--
+
+tech_colonization_3_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §HHabitability:§! §G+5%§!
+--nnn--- §HTomb World Habitability:§! §G+20%§!
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §HHabitability:§! §G+5%§!
+--nnn----quotes--
+
+tech_terrestrial_sculpting_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YFeature:§! Ecological Adaptation
+--nnn---  §YEnergy Capacity:§! £energy §G+5000!
+--nnn--
+--nnn--- §YFeature:§! Climate Restoration
+--nnn---  §YEnergy Capacity:§! £energy §G+5000!
+--nnn--
+--nnn----quotes--
+
+tech_planetary_unification_desc_tree:0 --quotes--
+--nnn--
+--nnn--Unlocks research leading to:
+--nnn--- §YEmpire Leader Capacity:§! §G+1§!
+--nnn--- §YLeader Pool Size:§! §G+1§!
+--nnn--- §YColony capital:§! £energy §G+2§! £minerals §G+2§! £food §G+2§!
+--nnn--- §YEdict:§! £minerals §G+20%§! Empire Production
+--nnn--
+--nnn--Future research follow up:
+--nnn--- §YCore Sector Systems:§! §G+1§!
+--nnn--- §YMax Influence from Factions:§! §G+1§!
+--nnn--- §YMonthly Influence:§! §G+1§!
+--nnn--- §YEmpire Leader:§! §G+2§!
+--nnn--- §YLeader Recruitment:§! £energy §G-20%§!
+--nnn--- §YMachine Modification Points:§! §G+1§!
+--nnn--- §YCivic Slots:§! §G+1§!
+--nnn--- §YColony capital:§! £energy §G+3§! £minerals §G+3§! £food §G+3§!
+--nnn--- §MBuilding:§! Galactic Stock Exchange
+--nnn--   £blocker Organic Intelligence Only
+--nnn--   £energy §G+10%§! Empire Production
+--nnn--- §MBuilding:§! Ministry of Benevolence
+--nnn--
+--nnn---- §YArmy:§! Battle Frame Army
+--nnn----  £blocker Machine Intelligence Only
+--nnn---- §YCore Sector Systems:§! §G+1§!
+--nnn---- §YEmpire Leader:§! §G+2§!
+--nnn---- §YLeader Recruitment:§! £energy §G-20%§!
+--nnn---- §YMachine Modification Points:§! §G+1§!
+--nnn---- §MBuilding:§! Probability Engine
+--nnn--    £blocker Machine Intelligence Only
+--nnn--    £energy §G+10%§! Empire Production
+--nnn--
+--nnn----- §YArmy:§! §EMega-Warform§!
+--nnn----   £blocker Machine Intelligence Only
+--nnn----- §YCore Sector Systems:§! §G+1§!
+--nnn----- §YSector Limit:§! §G+1§!
+--nnn----- §YEmpire Leader Capacity:§! §G+1§!
+--nnn----quotes--
