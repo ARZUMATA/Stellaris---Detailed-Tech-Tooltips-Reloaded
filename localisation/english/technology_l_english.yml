@@ -1,5 +1,5 @@
 ﻿l_english:
-  tech_adaptive_bureaucracy_desc:1 "The progress we make calls for a new, nimbler form of administration that may aid rather than hinder us in our pursuits. $tech_adaptive_bureaucracy_desc_tree$" # The leaps/progress/discoveries we have made demand a new form of administrative system, one that can be shaped by opportunity rather than limit it.
+ tech_adaptive_bureaucracy_desc:1 "The progress we make calls for a new, nimbler form of administration that may aid rather than hinder us in our pursuits. $tech_adaptive_bureaucracy_desc_tree$" # The leaps/progress/discoveries we have made demand a new form of administrative system, one that can be shaped by opportunity rather than limit it.
  tech_adaptive_combat_algorithms_desc:0 "Organics often fight using illogical and unpredictable tactics that can be difficult to effectively counter. Adaptive tactics and new, more maneuverable warforms should provide a decisive advantage. $tech_adaptive_combat_algorithms_desc_tree$"
  tech_administrative_ai_desc:0 "Organizational circuitry rerouting academic fervor. $tech_administrative_ai_desc_tree$"
  tech_alien_life_studies_desc:1 "Studying the fauna of other worlds gives insight into alien behaviors, allowing us to identify and domesticate docile entities. $tech_alien_life_studies_tree$"

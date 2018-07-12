@@ -597,11 +597,11 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
  # 
  tech_droid_workers_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_synthetic_workers$ $technology_tree_note_dangerous$\n    §Y$POPS$:§! £pops  §E$ROBOT_POP_SPECIES_3$§!\n$technology_tree_header_future$\n- $tech_synthetic_leaders$ $technology_tree_note_dangerous$\n    §Y$FEATURE$:§! $feature_robot_leaders$\n"
 
- # 
- tech_feature_modify_robots_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $ROBOT_species_trait_points_add$: §G+1§!\n$technology_tree_header_future$\n- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n"
+ # Machine Template System
+ tech_robomodding_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $ROBOT_species_trait_points_add$: §G+1§!\n$technology_tree_header_future$\n- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n"
 
- # 
- tech_feature_modify_robots_points_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n"
+ # Cross-Model Standardization
+ tech_robomodding_points_1_desc:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n"
 
  # 
  tech_ship_armor_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_ship_armor_3$ (III)\n- $MOD_SHIP_ARMOR_ADD$: §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $tech_ship_armor_4$ (IV)\n-- $tech_ship_armor_5$ (V)\n"
@@ -647,4 +647,4 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
 
 
  # 
- tech_colossus:0_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n$technology_tree_header_future$\n"
+ tech_colossus_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n$technology_tree_header_future$\n"
