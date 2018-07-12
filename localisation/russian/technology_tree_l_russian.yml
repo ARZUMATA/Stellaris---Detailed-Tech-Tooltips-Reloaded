@@ -81,22 +81,22 @@
  tech_repeatable_weapon_type_energy_fire_rate_damage_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $weapon_type_energy_weapon_fire_rate_mult$: §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $weapon_type_energy_weapon_fire_rate_mult$: §G+5%§! $technology_tree_note_repeatable$\n"
 
  # Scientific Method
- tech_basic_science_lab_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §B$building_physics_lab_1$§!\n$technology_tree_header_future$\n- £building §B$building_physics_lab_2$§!\n\n-- §M$tech_singularity_core$§!\n     £building $building_singularity_core$\n     £trigger_yes $personality_machine_intelligence$\n     $TRIGGER_REQUIRES$ £society $tech_galactic_administration$\n\n-- §M$tech_global_research_initiative$§!\n     £building $building_institute$\n     £trigger_no $personality_machine_intelligence$\n     $TRIGGER_REQUIRES$ £society $tech_colonial_centralization$\n-- £building §B$building_physics_lab_3$§!\n-- £building §B$building_physics_lab_4$§!\n-- $MOD_PLANET_BUILDING_COST_MULT$: £minerals §G-5%§! $technology_tree_note_repeatable$\n"
+ tech_basic_science_lab_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §B$building_physics_lab_1$§!\n$technology_tree_header_future$\n- £building  §B$building_physics_lab_2$§!\n\n-- §M$tech_singularity_core$§!\n     £building  $building_singularity_core$\n     £trigger_yes  $personality_machine_intelligence$\n     $TRIGGER_REQUIRES$ £society $tech_galactic_administration$\n\n-- §M$tech_global_research_initiative$§!\n     £building  $building_institute$\n     £trigger_no  $personality_machine_intelligence$\n     $TRIGGER_REQUIRES$ £society $tech_colonial_centralization$\n-- £building  §B$building_physics_lab_3$§!\n-- £building  §B$building_physics_lab_4$§!\n-- $MOD_PLANET_BUILDING_COST_MULT$: £minerals  §G-5%§! $technology_tree_note_repeatable$\n"
 
  # Quantum Theory
- tech_physics_lab_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §B$building_physics_lab_2$§!\n\n- §M$tech_singularity_core$§!\n    £building $building_singularity_core$\n    £trigger_yes $personality_machine_intelligence$\n    $TRIGGER_REQUIRES$ £society $tech_galactic_administration$\n\n- §M$tech_global_research_initiative$§!\n    £building $building_institute$\n    £trigger_no $personality_machine_intelligence$\n    $TRIGGER_REQUIRES$ £society $tech_colonial_centralization$\n$technology_tree_header_future$\n- £building §B$building_physics_lab_3$§!\n- £building §B$building_physics_lab_4$§!\n- $MOD_PLANET_BUILDING_COST_MULT$: £minerals §G-5%§! $technology_tree_note_repeatable$\n"
+ tech_physics_lab_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §B$building_physics_lab_2$§!\n\n- §M$tech_singularity_core$§!\n    £building  $building_singularity_core$\n    £trigger_yes  $personality_machine_intelligence$\n    $TRIGGER_REQUIRES$ £society $tech_galactic_administration$\n\n- §M$tech_global_research_initiative$§!\n    £building  $building_institute$\n    £trigger_no  $personality_machine_intelligence$\n    $TRIGGER_REQUIRES$ £society $tech_colonial_centralization$\n$technology_tree_header_future$\n- £building  §B$building_physics_lab_3$§!\n- £building  §B$building_physics_lab_4$§!\n- $MOD_PLANET_BUILDING_COST_MULT$: £minerals  §G-5%§! $technology_tree_note_repeatable$\n"
 
  # Applied Quantum Physics
- tech_physics_lab_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §B$building_physics_lab_3$§!\n- £building §B$building_physics_lab_4$§!\n- $MOD_PLANET_BUILDING_COST_MULT$: £minerals §G-5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
+ tech_physics_lab_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §B$building_physics_lab_3$§!\n- £building  §B$building_physics_lab_4$§!\n- $MOD_PLANET_BUILDING_COST_MULT$: £minerals  §G-5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
 
  # Space-Time Theory
  tech_physics_lab_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
 
  # Gravitational Analysis
- tech_repeatable_reduced_building_cost_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_PLANET_BUILDING_COST_MULT$: £minerals §G-5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $MOD_PLANET_BUILDING_COST_MULT$: £minerals §G-5%§! $technology_tree_note_repeatable$\n"
+ tech_repeatable_reduced_building_cost_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_PLANET_BUILDING_COST_MULT$: £minerals  §G-5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $MOD_PLANET_BUILDING_COST_MULT$: £minerals  §G-5%§! $technology_tree_note_repeatable$\n"
 
  # Administrative AI
- tech_administrative_ai_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$: §G+50%§!\n- $tech_combat_computers_1$ (II)\n- $MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD$: §G+1§!\n$technology_tree_header_future$\n- $tech_auxiliary_fire_control$\n- $tech_combat_computers_2$ (I)\n- $MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$: §G+50%§!\n- $RESEARCH_EFFICIENCY$: §G+5%§!\n- §M$tech_synchronized_defences$§!\n\n-- §R$tech_combat_computers_3$ (II)§!\n-- §§R$tech_combat_computers_autonomous$§!\n"
+ tech_administrative_ai_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$: §G+50%§!\n- $tech_combat_computers_1$ (II)\n- $MOD_COUNTRY_NUM_TECH_ALTERNATIVES_ADD$: §G+1§!\n$technology_tree_header_future$\n- $tech_auxiliary_fire_control$\n- $tech_combat_computers_2$ (I)\n- $MOD_PLANET_COLONY_DEVELOPMENT_SPEED_MULT$: §G+50%§!\n- $RESEARCH_EFFICIENCY$: §G+5%§!\n- §M$tech_synchronized_defences$§!\n\n-- §R$tech_combat_computers_3$ (II)§!\n-- §R$tech_combat_computers_autonomous$§!\n"
 
  # AI-Controlled Colony Ships
  tech_cryostasis_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
@@ -129,16 +129,16 @@
  tech_sapient_ai_desc_tree_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Biodiversity Studies
- tech_biolab_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §G$building_biolab_2$§!\n$technology_tree_header_future$\n- £building §G$building_biolab_3$§!\n- £building §G$building_biolab_4$§!\n"
+ tech_biolab_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §G$building_biolab_2$§!\n$technology_tree_header_future$\n- £building  §G$building_biolab_3$§!\n- £building  §G$building_biolab_4$§!\n"
 
  # Xenobiology
- tech_biolab_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §G$building_biolab_3$§!\n- £building §G$building_biolab_4$§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
+ tech_biolab_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §G$building_biolab_3$§!\n- £building  §G$building_biolab_4$§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
 
  # Secrets of Life
  tech_biolab_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Nanomechanics
- tech_engineering_lab_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §H$building_engineering_facility_2$§!\n- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+25%§!\n$technology_tree_header_future$\n- £building §H$building_engineering_facility_3$§!\n- £building §H$building_engineering_facility_4$§!\n- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+50%§!\n-- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+10%§! $technology_tree_note_repeatable$\n"
+ tech_engineering_lab_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §H$building_engineering_facility_2$§!\n- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+25%§!\n$technology_tree_header_future$\n- £building  §H$building_engineering_facility_3$§!\n- £building  §H$building_engineering_facility_4$§!\n- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+50%§!\n-- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+10%§! $technology_tree_note_repeatable$\n"
 
  # Assembly Patterns
  tech_assembly_pattern_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+50%§!\n$technology_tree_header_future$\n- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+10%§! $technology_tree_note_repeatable$\n"
@@ -150,25 +150,25 @@
  tech_repeatable_reduced_building_time_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+10%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $MOD_PLANET_BUILDING_BUILD_SPEED_MULT$: §G+10%§! $technology_tree_note_repeatable$\n" 
 
  # Supersolid Materials
- tech_engineering_lab_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §H$building_engineering_facility_3$§!\n- £building §H$building_engineering_facility_4$§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
+ tech_engineering_lab_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §H$building_engineering_facility_3$§!\n- £building  §H$building_engineering_facility_4$§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
 
  # Superfluid Materials
  tech_engineering_lab_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Fission Power
- tech_fission_power_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_fusion_power$ (II)\n$technology_tree_header_future$\n- $tech_cold_fusion_power$ (II)\n- $tech_reactor_boosters_2$ (II)\n- $tech_antimatter_power$ (III)\n--- $tech_reactor_boosters_3$ (III)\n--- $tech_zero_point_power$ (IV)\n---- §P$tech_jump_drive_1$§!\n---- §M$tech_matter_generator$§!\n       £building $building_replicator$\n         £energy §R-50§! £minerals §G+40§!\n"
+ tech_fission_power_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_fusion_power$ (II)\n$technology_tree_header_future$\n- $tech_cold_fusion_power$ (II)\n- $tech_reactor_boosters_2$ (II)\n- $tech_antimatter_power$ (III)\n--- $tech_reactor_boosters_3$ (III)\n--- $tech_zero_point_power$ (IV)\n---- §P$tech_jump_drive_1$§!\n---- §M$tech_matter_generator$§!\n       £building  $building_replicator$\n         £energy  §R-50§! £minerals  §G+40§!\n"
 
  # Fusion Power
- tech_fusion_power_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_cold_fusion_power$ (II)\n- $tech_reactor_boosters_2$ (II)\n$technology_tree_header_future$\n- $tech_antimatter_power$ (III)\n-- $tech_reactor_boosters_3$ (III)\n-- $tech_zero_point_power$ (IV)\n--- §P$tech_jump_drive_1$§!\n--- §M$tech_matter_generator$§!\n      £building $building_replicator$\n        £energy §R-50§! £minerals §G+40§!\n"
+ tech_fusion_power_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_cold_fusion_power$ (II)\n- $tech_reactor_boosters_2$ (II)\n$technology_tree_header_future$\n- $tech_antimatter_power$ (III)\n-- $tech_reactor_boosters_3$ (III)\n-- $tech_zero_point_power$ (IV)\n--- §P$tech_jump_drive_1$§!\n--- §M$tech_matter_generator$§!\n      £building  $building_replicator$\n        £energy  §R-50§! £minerals  §G+40§!\n"
 
  # Improved Reactor Boosters
  tech_reactor_boosters_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Cold Fusion Power
- tech_cold_fusion_power_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_antimatter_power$ (III)\n$technology_tree_header_future$\n- $tech_reactor_boosters_3$ (III)\n- $tech_zero_point_power$ (IV)\n-- §P$tech_jump_drive_1$§!\n-- §M$tech_matter_generator$§!\n     £building $building_replicator$ \n       £energy §R-50§! £minerals §G+40§!\n"
+ tech_cold_fusion_power_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_antimatter_power$ (III)\n$technology_tree_header_future$\n- $tech_reactor_boosters_3$ (III)\n- $tech_zero_point_power$ (IV)\n-- §P$tech_jump_drive_1$§!\n-- §M$tech_matter_generator$§!\n     £building  $building_replicator$ \n       £energy  §R-50§! £minerals  §G+40§!\n"
 
  # Antimatter Power
- tech_antimatter_power_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_reactor_boosters_3$ (III)\n- $tech_zero_point_power$ (IV)\n$technology_tree_header_future$\n- §P$tech_jump_drive_1$§!\n- §M$tech_matter_generator$§!\n    £building $building_replicator$\n      £energy §R-50§! £minerals §G+40§!\n"
+ tech_antimatter_power_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_reactor_boosters_3$ (III)\n- $tech_zero_point_power$ (IV)\n$technology_tree_header_future$\n- §P$tech_jump_drive_1$§!\n- §M$tech_matter_generator$§!\n    £building  $building_replicator$\n      £energy  §R-50§! £minerals  §G+40§!\n"
 
  # Advanced Reactor Boosters
  tech_reactor_boosters_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -180,13 +180,13 @@
  tech_reactor_boosters_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Deflectors
- tech_shields_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_shields_2$ (II)\n$technology_tree_header_future$\n- $tech_shields_3$ (III)\n-- $tech_shield_rechargers_1$\n-- $tech_shields_4$ (IV)\n-- §M$tech_planetary_shield_generator$§!\n     £building $building_planetary_shield_generator$\n     §G-75%§! $MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$\n--- $tech_shields_5$ (V)\n--- $MOD_SHIP_SHIELD_HP_ADD$: §G+5%§! $technology_tree_note_repeatable$\n"
+ tech_shields_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_shields_2$ (II)\n$technology_tree_header_future$\n- $tech_shields_3$ (III)\n-- $tech_shield_rechargers_1$\n-- $tech_shields_4$ (IV)\n-- §M$tech_planetary_shield_generator$§!\n     £building  $building_planetary_shield_generator$\n     §G-75%§! $MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$\n--- $tech_shields_5$ (V)\n--- $MOD_SHIP_SHIELD_HP_ADD$: §G+5%§! $technology_tree_note_repeatable$\n"
 
  # Improved Deflectors
- tech_shields_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_shields_3$ (III)\n$technology_tree_header_future$\n- $tech_shield_rechargers_1$\n- $tech_shields_4$ (IV)\n- §M$tech_planetary_shield_generator$§!\n    £building $building_planetary_shield_generator$\n    §G-75%§! $MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$\n-- $tech_shields_5$ (V)\n-- $MOD_SHIP_SHIELD_HP_ADD$: §G+5%§! $technology_tree_note_repeatable$\n"
+ tech_shields_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_shields_3$ (III)\n$technology_tree_header_future$\n- $tech_shield_rechargers_1$\n- $tech_shields_4$ (IV)\n- §M$tech_planetary_shield_generator$§!\n    £building  $building_planetary_shield_generator$\n    §G-75%§! $MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$\n-- $tech_shields_5$ (V)\n-- $MOD_SHIP_SHIELD_HP_ADD$: §G+5%§! $technology_tree_note_repeatable$\n"
 
  # Shields
- tech_shields_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_shield_rechargers_1$\n- $tech_shields_4$ (IV)\n- §M$tech_planetary_shield_generator$§!\n    £building $building_planetary_shield_generator$\n    §G-75%§! $MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$\n$technology_tree_header_future$\n- $tech_shields_5$ (V)\n- $MOD_SHIP_SHIELD_HP_ADD$: §G+5%§! $technology_tree_note_repeatable$\n"
+ tech_shields_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_shield_rechargers_1$\n- $tech_shields_4$ (IV)\n- §M$tech_planetary_shield_generator$§!\n    £building  $building_planetary_shield_generator$\n    §G-75%§! $MOD_PLANET_ORBITAL_BOMBARDMENT_DAMAGE$\n$technology_tree_header_future$\n- $tech_shields_5$ (V)\n- $MOD_SHIP_SHIELD_HP_ADD$: §G+5%§! $technology_tree_note_repeatable$\n"
 
  # Shield Capacitors
  tech_shield_rechargers_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -204,22 +204,22 @@
  tech_repeatable_improved_shield_output_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # High-Energy Capacitors
- tech_power_plant_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $building_power_plant_2$\n    §Y$max_energy$:§! £energy §G+5000§!\n\n- $tech_power_hub_1$\n   £building $building_power_hub_1$\n     $PLANET_CAP$: £energy §G+10%§!\n$technology_tree_header_future$\n- $building_power_plant_3$\n    §Y$max_energy$:§! £energy §G+10000§!\n\n- $tech_power_hub_2$\n   £building $building_power_hub_2$\n     $PLANET_CAP$: £energy §G+20%§!\n\n-- $building_power_plant_4$\n-- $building_power_plant_5$\n-- §Y$energy$s:§! £energy §G+5%§! $technology_tree_note_repeatable$\n"
+ tech_power_plant_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  $building_power_plant_2$\n    §Y$max_energy$:§! £energy  §G+5000§!\n\n- $tech_power_hub_1$\n   £building  $building_power_hub_1$\n     $PLANET_CAP$: £energy  §G+10%§!\n$technology_tree_header_future$\n- £building  $building_power_plant_3$\n    §Y$max_energy$:§! £energy  §G+10000§!\n\n- $tech_power_hub_2$\n   £building  $building_power_hub_2$\n     $PLANET_CAP$: £energy  §G+20%§!\n\n-- £building  $building_power_plant_4$\n-- £building  $building_power_plant_5$\n-- §Y$energy$s:§! £energy  §G+5%§! $technology_tree_note_repeatable$\n"
 
  # Field Modulation
- building_power_plant_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $building_power_plant_3$\n    §Y$max_energy$:§! £energy §G+10000§!\n$technology_tree_header_future$\n- $building_power_plant_4$\n- $building_power_plant_5$\n    §Y$max_energy$:§! £energy §G+10000§!\n- §Y$energy$s:§! £energy §G+5%§! $technology_tree_note_repeatable$\n"
+ tech_power_plant_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  $building_power_plant_3$\n    §Y$max_energy$:§! £energy  §G+10000§!\n$technology_tree_header_future$\n- £building  $building_power_plant_4$\n- £building  $building_power_plant_5$\n    §Y$max_energy$:§! £energy  §G+10000§!\n- §Y$energy$s:§! £energy  §G+5%§! $technology_tree_note_repeatable$\n"
 
  # Quantum Energy States
- tech_power_plant_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $building_power_plant_4$\n- $building_power_plant_5$\n    §Y$max_energy$:§! £energy §G+10000§!\n- §Y$energy$s:§! £energy §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
+ tech_power_plant_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  $building_power_plant_4$\n- £building  $building_power_plant_5$\n    §Y$max_energy$:§! £energy  §G+10000§!\n- §Y$energy$s:§! £energy  §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
 
  # Quantum Field Manipulation
  tech_power_plant_4_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Applied Superconductivity
- tech_repeatable_improved_tile_energy_output_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n §Y$energy$s:§! £energy §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n §Y$energy$s:§! £energy §G+5%§! $technology_tree_note_repeatable$\n" 
+ tech_repeatable_improved_tile_energy_output_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n §Y$energy$s:§! £energy  §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n §Y$energy$s:§! £energy  §G+5%§! $technology_tree_note_repeatable$\n" 
 
  # Global Energy Management
- tech_power_hub_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_power_hub_2$\n   £building $building_power_hub_2$\n     $PLANET_CAP$: £energy §G+20%§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
+ tech_power_hub_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_power_hub_2$\n   £building  $building_power_hub_2$\n     $PLANET_CAP$: £energy  §G+20%§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Planetary Power Grid
  tech_power_hub_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -267,13 +267,13 @@
  tech_archeology_lab_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Gravitic Sensors
- tech_sensors_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_sensors_3$ (III)\n- £sr_lythuric $tech_lythuric_gas$\n$technology_tree_header_future$\n- $tech_sensors_4$ (IV)\n- $tech_mine_satramene$\n    §Y$RESOURCES$:§! £sr_satramene $sr_satramene$\n- $tech_mine_zro$\n    §Y$RESOURCES$:§! £sr_zro $sr_zro$\n-- $tech_mine_neutronium$\n     §Y$RESOURCES$:§! £sr_neutronium $sr_neutronium$\n-- $tech_mine_dark_matter$\n     §Y$RESOURCES$:§! £sr_dark_matter $sr_dark_matter$\n"
+ tech_sensors_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_sensors_3$ (III)\n- £sr_lythuric  $tech_lythuric_gas$\n$technology_tree_header_future$\n- $tech_sensors_4$ (IV)\n- $tech_mine_satramene$\n    §Y$RESOURCES$:§! £sr_satramene  $sr_satramene$\n- $tech_mine_zro$\n    §Y$RESOURCES$:§! £sr_zro  $sr_zro$\n-- $tech_mine_neutronium$\n     §Y$RESOURCES$:§! £sr_neutronium  $sr_neutronium$\n-- $tech_mine_dark_matter$\n     §Y$RESOURCES$:§! £sr_dark_matter  $sr_dark_matter$\n"
 
  # Lythuric Gas Refining
  tech_lythuric_gas_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Subspace Sensors
- tech_sensors_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_sensors_4$ (IV)\n- $tech_mine_satramene$\n    §Y$RESOURCES$:§! £sr_satramene $sr_satramene$\n- $tech_mine_zro$\n    §Y$RESOURCES$:§! £sr_zro $sr_zro$\n$technology_tree_header_future$\n- $tech_mine_neutronium$\n    §Y$RESOURCES$:§! £sr_neutronium $sr_neutronium$\n- $tech_mine_dark_matter$\n    §Y$RESOURCES$:§! £sr_dark_matter $sr_dark_matter$\n"
+ tech_sensors_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_sensors_4$ (IV)\n- $tech_mine_satramene$\n    §Y$RESOURCES$:§! £sr_satramene  $sr_satramene$\n- $tech_mine_zro$\n    §Y$RESOURCES$:§! £sr_zro  $sr_zro$\n$technology_tree_header_future$\n- $tech_mine_neutronium$\n    §Y$RESOURCES$:§! £sr_neutronium  $sr_neutronium$\n- $tech_mine_dark_matter$\n    §Y$RESOURCES$:§! £sr_dark_matter  $sr_dark_matter$\n"
 
  # Satramene Refining
  tech_mine_satramene_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -282,7 +282,7 @@
  tech_mine_zro_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Tachyon Sensors
- tech_sensors_4_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £sr_neutronium $tech_mine_neutronium$\n- £sr_dark_matter $tech_mine_dark_matter$\n"
+ tech_sensors_4_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £sr_neutronium  $tech_mine_neutronium$\n- £sr_dark_matter  $tech_mine_dark_matter$\n"
 
  # Neutronium Extraction
  tech_mine_neutronium_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -312,22 +312,22 @@
  tech_dark_matter_power_core_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Planetary Defenses
- tech_planetary_defenses_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_ARMY_DEFENSE_DAMAGE_MULT$: §G+233%§!\n$technology_tree_header_future$\n- $tech_global_defense_grid$\n    $MOD_ARMY_DEFENSE_HEALTH_MULT$: §G+25%§!\n    £building $building_fortress$\n" 
+ tech_planetary_defenses_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_ARMY_DEFENSE_DAMAGE_MULT$: §G+233%§!\n$technology_tree_header_future$\n- $tech_global_defense_grid$\n    $MOD_ARMY_DEFENSE_HEALTH_MULT$: §G+25%§!\n    £building  $building_fortress$\n" 
 
  # Ground Defense Planning
- tech_ground_defense_planning_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_global_defense_grid$\n    $MOD_ARMY_DEFENSE_HEALTH_MULT$: §G+25%§!\n    £building $building_fortress$\n"
+ tech_ground_defense_planning_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_global_defense_grid$\n    $MOD_ARMY_DEFENSE_HEALTH_MULT$: §G+25%§!\n    £building  $building_fortress$\n"
 
  # Global Defense Grid
  tech_global_defense_grid_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  #Hydroponics
- tech_eco_simulation_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §G$building_hydroponics_farm_2$§!\n$technology_tree_header_future$\n- £building §G$building_hydroponics_farm_3$§!\n-- £building §G$building_hydroponics_farm_4$§!\n-- £building §G$building_hydroponics_farm_5$§!\n-- $PLANET_TILE$: £food §G+5%§! $technology_tree_note_repeatable$\n--- $PLANET_TILE$: £food §G+15%§!\n" 
+ tech_eco_simulation_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §G$building_hydroponics_farm_2$§!\n$technology_tree_header_future$\n- £building  §G$building_hydroponics_farm_3$§!\n-- £building  §G$building_hydroponics_farm_4$§!\n-- £building  §G$building_hydroponics_farm_5$§!\n-- $PLANET_TILE$: £food §G+5%§! $technology_tree_note_repeatable$\n--- $PLANET_TILE$: £food §G+15%§!\n" 
 
  # Eco Simulation
- tech_hydroponics_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §G$building_hydroponics_farm_3$§!\n$technology_tree_header_future$\n- £building §G$building_hydroponics_farm_4$§!\n- £building §G$building_hydroponics_farm_5$§!\n- $PLANET_TILE$: £food §G+5%§! $technology_tree_note_repeatable$\n-- $PLANET_TILE$: £food §G+15%§!\n"
+ tech_hydroponics_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §G$building_hydroponics_farm_3$§!\n$technology_tree_header_future$\n- £building  §G$building_hydroponics_farm_4$§!\n- £building  §G$building_hydroponics_farm_5$§!\n- $PLANET_TILE$: £food §G+5%§! $technology_tree_note_repeatable$\n-- $PLANET_TILE$: £food §G+15%§!\n"
 
  # Gene Crops
- tech_gene_crops_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §G$building_hydroponics_farm_4$§!\n- £building §G$building_hydroponics_farm_5$§!\n- $PLANET_TILE$: £food §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $PLANET_TILE$: £food §G+15%§!\n"
+ tech_gene_crops_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §G$building_hydroponics_farm_4$§!\n- £building  §G$building_hydroponics_farm_5$§!\n- $PLANET_TILE$: £food §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $PLANET_TILE$: £food §G+15%§!\n"
 
  # Nano-Vitality Crops
  tech_nano_vitality_crops_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $PLANET_TILE$: £food §G+15%§!\n"
@@ -339,10 +339,10 @@
  tech_repeatable_improved_tile_food_output_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $PLANET_TILE$: £food §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $PLANET_TILE$: £food §G+5%§! $technology_tree_note_repeatable$\n" 
 
  # New Worlds Protocol
- tech_colonization_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building $building_spare_parts_depot$\n- $tech_space_trading$\n- §Y$CLEAR_BLOCKER:$§! $tb_dense_jungle$\n- §Y$CLEAR_BLOCKER:$§! $tb_quicksand_basin$\n- §Y$CLEAR_BLOCKER:$§! $tb_noxious_swamp$\n- §Y$CLEAR_BLOCKER:$§! $tb_massive_glacier$\n- §Y$CLEAR_BLOCKER:$§! $tb_toxic_kelp$\n- §Y$CLEAR_BLOCKER:$§! $tb_deep_sinkhole$\n- §Y$CLEAR_BLOCKER:$§! $tb_mountain_range$\n- §Y$CLEAR_BLOCKER:$§! $tb_active_volcano$\n- §Y$CLEAR_BLOCKER:$§! $tb_dangerous_wildlife$\n- $HABITABILITY$: §G+5%§!\n- §Y$FEATURE$:§! $feature_build_terraform_station$\n    §Y$RESOURCES$:§! £sr_terraform_gases $sr_terraform_gases$\n    §Y$RESOURCES$:§! £sr_terraform_liquids $sr_terraform_liquids$\n    §Y$max_energy$:§! £energy §G+5000§!\n$technology_tree_header_future$\n- £building $building_unit_assembly_plant$\n- $HABITABILITY$: §G+5%§!\n- §Y$FEATURE$:§! $tech_ecological_adaptation$\n    §Y$max_energy$:§! £energy §G+5000!\n\n- §Y$FEATURE$:§! $tech_climate_restoration$\n    §Y$max_energy$:§! £energy §G+5000!\n\n-- $HABITABILITY$: §G+5%§!\n-- $pc_nuked_habitability$: §G+20%§! $technology_tree_note_raretech$\n--- $HABITABILITY$: §G+5%§!\n" 
+ tech_colonization_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  $building_spare_parts_depot$\n- $tech_space_trading$\n- §Y$CLEAR_BLOCKER:$§! $tb_dense_jungle$\n- §Y$CLEAR_BLOCKER:$§! $tb_quicksand_basin$\n- §Y$CLEAR_BLOCKER:$§! $tb_noxious_swamp$\n- §Y$CLEAR_BLOCKER:$§! $tb_massive_glacier$\n- §Y$CLEAR_BLOCKER:$§! $tb_toxic_kelp$\n- §Y$CLEAR_BLOCKER:$§! $tb_deep_sinkhole$\n- §Y$CLEAR_BLOCKER:$§! $tb_mountain_range$\n- §Y$CLEAR_BLOCKER:$§! $tb_active_volcano$\n- §Y$CLEAR_BLOCKER:$§! $tb_dangerous_wildlife$\n- $HABITABILITY$: §G+5%§!\n- §Y$FEATURE$:§! $feature_build_terraform_station$\n    §Y$RESOURCES$:§! £sr_terraform_gases  $sr_terraform_gases$\n    §Y$RESOURCES$:§! £sr_terraform_liquids  $sr_terraform_liquids$\n    §Y$max_energy$:§! £energy  §G+5000§!\n$technology_tree_header_future$\n- £building  $building_unit_assembly_plant$\n- $HABITABILITY$: §G+5%§!\n- §Y$FEATURE$:§! $tech_ecological_adaptation$\n    §Y$max_energy$:§! £energy  §G+5000§!\n\n- §Y$FEATURE$:§! $tech_climate_restoration$\n    §Y$max_energy$:§! £energy  §G+5000§!\n\n-- $HABITABILITY$: §G+5%§!\n-- $pc_nuked_habitability$: §G+20%§! $technology_tree_note_raretech$\n--- $HABITABILITY$: §G+5%§!\n" 
 
  # Modular Components
- tech_frontier_health_machine_intelligence_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building $building_unit_assembly_plant$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
+ tech_frontier_health_machine_intelligence_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  $building_unit_assembly_plant$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Intelligent Factories
  tech_frontier_hospital_machine_intelligence:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -393,7 +393,7 @@
  tech_tomb_world_adaption_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Terrestrial Sculpting
- tech_terrestrial_sculpting_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$FEATURE$:§! $tech_ecological_adaptation$\n    §Y$max_energy$:§! £energy §G+5000!\n\n- §Y$FEATURE$:§! $tech_climate_restoration$\n    §Y$max_energy$:§! £energy §G+5000!\n\n"
+ tech_terrestrial_sculpting_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$FEATURE$:§! $tech_ecological_adaptation$\n    §Y$max_energy$:§! £energy  §G+5000§!\n\n- §Y$FEATURE$:§! $tech_climate_restoration$\n    §Y$max_energy$:§! £energy  §G+5000§!\n\n"
 
  # Ecological Adaptation
  tech_ecological_adaptation_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -402,19 +402,19 @@
  tech_climate_restoration_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Planetary Government
- tech_planetary_government_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $country_resource_unity_mult$ §G+2§!\n- Unlocks Edict: Peace Festivals\n- §Y$FEATURE$:§! $feature_campaign_edicts$\n- §Y$EDICT$§! $edict_peace_festivals$\n$technology_tree_header_future$\n- $MOD_COUNTRY_LEADER_CAP$: §G+1§!\n- $MOD_COUNTRY_LEADER_POOL_SIZE$: §G+1§!\n- §Y$building_capital_2$:§! £energy §G+2§! £minerals §G+2§! £food §G+2§!\n- §Y$EDICT$§! £minerals §G+20%§! $country_resource_minerals_mult$\n\n-- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n-- $MOD_COUNTRY_FACTION_INFLUENCE_ADD$: §G+1§!\n-- $country_resource_influence_add$: §G+1§!\n-- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n     $MOD_LEADER_COST$: £energy §G-20%§!\n-- $MACHINE_species_trait_points_add$: §G+1§!\n-- $MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$: §G+1§!\n-- $building_capital_2$: £energy §G+3§! £minerals §G+3§! £food §G+3§!\n-- £building $building_galactic_stock_exchange$ $technology_tree_note_raretech$\n     £trigger_no $personality_machine_intelligence$\n     £energy §G+10%§! $country_resource_energy_mult$\n-- £building $building_ministry_benevolence$ $technology_tree_note_raretech$\n     £unity §G+6§!\n\n--- §Y$buildable_army$:§! $machine_assault_2$\n      £trigger_yes $personality_machine_intelligence$\n--- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n--- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n      $MOD_LEADER_COST$: £energy §G-20%§!\n--- $MACHINE_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n--- £building $building_probability_engine$ $technology_tree_note_raretech$\n      £trigger_yes $personality_machine_intelligence$\n      £energy §G+10%§! $country_resource_energy_mult$\n\n---- §Y$buildable_army$:§! $machine_assault_3$ $technology_tree_note_raretech$\n       £trigger_yes $personality_machine_intelligence$\n---- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§! $technology_tree_note_repeatable$\n---- $MOD_COUNTRY_SECTOR_CAP_ADD$: §G+1§! $technology_tree_note_repeatable$\n---- $MOD_COUNTRY_LEADER_CAP$: §G+1§! $technology_tree_note_repeatable$\n" 
+ tech_planetary_government_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $country_resource_unity_mult$ §G+2§!\n- Unlocks Edict: Peace Festivals\n- §Y$FEATURE$:§! $feature_campaign_edicts$\n- §Y$EDICT$§! $edict_peace_festivals$\n$technology_tree_header_future$\n- $MOD_COUNTRY_LEADER_CAP$: §G+1§!\n- $MOD_COUNTRY_LEADER_POOL_SIZE$: §G+1§!\n- £building  §Y$building_capital_2$:§! £energy  §G+2§! £minerals  §G+2§! £food §G+2§!\n- §Y$EDICT$§! £minerals  §G+20%§! $country_resource_minerals_mult$\n\n-- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n-- $MOD_COUNTRY_FACTION_INFLUENCE_ADD$: §G+1§!\n-- $country_resource_influence_add$: §G+1§!\n-- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n     $MOD_LEADER_COST$: £energy  §G-20%§!\n-- $MACHINE_species_trait_points_add$: §G+1§!\n-- $MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$: §G+1§!\n-- $building_capital_2$: £energy  §G+3§! £minerals  §G+3§! £food §G+3§!\n-- £building  $building_galactic_stock_exchange$ $technology_tree_note_raretech$\n     £trigger_no  $personality_machine_intelligence$\n     £energy  §G+10%§! $country_resource_energy_mult$\n-- £building  $building_ministry_benevolence$ $technology_tree_note_raretech$\n     £unity  §G+6§!\n\n--- §Y$buildable_army$:§! £pop_modifier  $machine_assault_2$\n      £trigger_yes  $personality_machine_intelligence$\n--- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n--- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n      $MOD_LEADER_COST$: £energy  §G-20%§!\n--- $MACHINE_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n--- £building  $building_probability_engine$ $technology_tree_note_raretech$\n      £trigger_yes  $personality_machine_intelligence$\n      £energy  §G+10%§! $country_resource_energy_mult$\n\n---- §Y$buildable_army$:§! £pop_modifier  $machine_assault_3$ $technology_tree_note_raretech$\n       £trigger_yes  $personality_machine_intelligence$\n---- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§! $technology_tree_note_repeatable$\n---- $MOD_COUNTRY_SECTOR_CAP_ADD$: §G+1§! $technology_tree_note_repeatable$\n---- $MOD_COUNTRY_LEADER_CAP$: §G+1§! $technology_tree_note_repeatable$\n" 
 
  # Planetary Unification
- tech_planetary_unification_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_LEADER_CAP$: §G+1§!\n- $MOD_COUNTRY_LEADER_POOL_SIZE$: §G+1§!\n- §Y$building_capital_2$:§! £energy §G+2§! £minerals §G+2§! £food §G+2§!\n- §Y$EDICT$§! £minerals §G+20%§! $country_resource_minerals_mult$\n$technology_tree_header_future$\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n- $MOD_COUNTRY_FACTION_INFLUENCE_ADD$: §G+1§!\n- $country_resource_influence_add$: §G+1§!\n- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n    $MOD_LEADER_COST$: £energy §G-20%§!\n- $MACHINE_species_trait_points_add$: §G+1§!\n- $MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$: §G+1§!\n- $building_capital_2$: £energy §G+3§! £minerals §G+3§! £food §G+3§!\n- £building $building_galactic_stock_exchange$ $technology_tree_note_raretech$\n    £trigger_no $personality_machine_intelligence$\n    £energy §G+10%§! $country_resource_energy_mult$\n- £building $building_ministry_benevolence$ $technology_tree_note_raretech$\n    £unity §G+6§!\n\n-- §Y$buildable_army$:§! $machine_assault_2$\n     £trigger_yes $personality_machine_intelligence$\n-- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n-- $MOD_COUNTRY_SECTOR_CAP_ADD$: §G+1§! $technology_tree_note_repeatable$\n-- $MOD_COUNTRY_LEADER_CAP$: §G+1§! $technology_tree_note_repeatable$\n-- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n     $MOD_LEADER_COST$: £energy §G-20%§!\n-- $MACHINE_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n-- £building $building_probability_engine$ $technology_tree_note_raretech$\n     £trigger_yes $personality_machine_intelligence$\n     £energy §G+10%§! $country_resource_energy_mult$\n\n--- §Y$buildable_army$:§! $machine_assault_3$ $technology_tree_note_raretech$\n      £trigger_yes $personality_machine_intelligence$\n--- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§! $technology_tree_note_repeatable$\n"
+ tech_planetary_unification_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_LEADER_CAP$: §G+1§!\n- $MOD_COUNTRY_LEADER_POOL_SIZE$: §G+1§!\n- £building  §Y$building_capital_2$:§! £energy  §G+2§! £minerals  §G+2§! £food §G+2§!\n- §Y$EDICT$§! £minerals  §G+20%§! $country_resource_minerals_mult$\n$technology_tree_header_future$\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n- $MOD_COUNTRY_FACTION_INFLUENCE_ADD$: §G+1§!\n- $country_resource_influence_add$: §G+1§!\n- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n    $MOD_LEADER_COST$: £energy  §G-20%§!\n- $MACHINE_species_trait_points_add$: §G+1§!\n- $MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$: §G+1§!\n- $building_capital_2$: £energy  §G+3§! £minerals  §G+3§! £food §G+3§!\n- £building  $building_galactic_stock_exchange$ $technology_tree_note_raretech$\n    £trigger_no  $personality_machine_intelligence$\n    £energy  §G+10%§! $country_resource_energy_mult$\n- £building  $building_ministry_benevolence$ $technology_tree_note_raretech$\n    £unity  §G+6§!\n\n-- §Y$buildable_army$:§! £pop_modifier  $machine_assault_2$\n     £trigger_yes  $personality_machine_intelligence$\n-- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n-- $MOD_COUNTRY_SECTOR_CAP_ADD$: §G+1§! $technology_tree_note_repeatable$\n-- $MOD_COUNTRY_LEADER_CAP$: §G+1§! $technology_tree_note_repeatable$\n-- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n     $MOD_LEADER_COST$: £energy  §G-20%§!\n-- $MACHINE_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n-- £building  $building_probability_engine$ $technology_tree_note_raretech$\n     £trigger_yes  $personality_machine_intelligence$\n     £energy  §G+10%§! $country_resource_energy_mult$\n\n--- §Y$buildable_army$:§! £pop_modifier  $machine_assault_3$ $technology_tree_note_raretech$\n      £trigger_yes  $personality_machine_intelligence$\n--- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§! $technology_tree_note_repeatable$\n"
 
  # Adaptive Bureaucracy
- tech_adaptive_bureaucracy_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n- $MOD_COUNTRY_SECTOR_CAP_ADD$: §G+1§! $technology_tree_note_repeatable$\n- $MOD_COUNTRY_LEADER_CAP$: §G+1§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- §Y$buildable_army$:§! $machine_assault_2$\n    £trigger_yes $personality_machine_intelligence$\n\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n\n-- §Y$buildable_army$:§! $machine_assault_3$ $technology_tree_note_raretech$\n     £trigger_yes $personality_machine_intelligence$\n\n-- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§! $technology_tree_note_repeatable$\n" 
+ tech_adaptive_bureaucracy_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n- $MOD_COUNTRY_SECTOR_CAP_ADD$: §G+1§! $technology_tree_note_repeatable$\n- $MOD_COUNTRY_LEADER_CAP$: §G+1§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- §Y$buildable_army$:§! £pop_modifier  $machine_assault_2$\n    £trigger_yes  $personality_machine_intelligence$\n\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n\n-- §Y$buildable_army$:§! £pop_modifier  $machine_assault_3$ $technology_tree_note_raretech$\n     £trigger_yes  $personality_machine_intelligence$\n\n-- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§! $technology_tree_note_repeatable$\n" 
 
  # Colonial Bureaucracy
- tech_colonial_bureaucracy_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n\n- §Y$buildable_army$:§! $machine_assault_2$\n    £trigger_yes $personality_machine_intelligence$\n$technology_tree_header_future$\n- §Y$buildable_army$:§! $machine_assault_3$ $technology_tree_note_raretech$\n    £trigger_yes $personality_machine_intelligence$\n\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§! $technology_tree_note_repeatable$\n" 
+ tech_colonial_bureaucracy_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§!\n\n- §Y$buildable_army$:§! £pop_modifier  $machine_assault_2$\n    £trigger_yes  $personality_machine_intelligence$\n$technology_tree_header_future$\n- §Y$buildable_army$:§! £pop_modifier  $machine_assault_3$ $technology_tree_note_raretech$\n    £trigger_yes  $personality_machine_intelligence$\n\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§! $technology_tree_note_repeatable$\n" 
 
  # Adaptive Combat Algorithms
- tech_adaptive_combat_algorithms_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$buildable_army$:§! $machine_assault_3$ $technology_tree_note_raretech$\n    £trigger_yes $personality_machine_intelligence$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
+ tech_adaptive_combat_algorithms_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$buildable_army$:§! £pop_modifier  $machine_assault_3$ $technology_tree_note_raretech$\n    £trigger_yes  $personality_machine_intelligence$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Galactic Bureaucracy
  tech_galactic_bureaucracy_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_CORE_SECTOR_SYSTEM_CAP$: §G+1§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -432,13 +432,13 @@
  tech_repeatable_improved_leader_cap_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_LEADER_CAP$: §G+1§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $MOD_COUNTRY_LEADER_CAP$: §G+1§! $technology_tree_note_repeatable$\n" 
 
  # Colonial Centralization
-tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_FACTION_INFLUENCE_ADD$: §G+1§!\n- $country_resource_influence_add$: §G+1§!\n- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n    $MOD_LEADER_COST$: £energy §G-20%§!\n- $MACHINE_species_trait_points_add$: §G+1§!\n- $MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$: §G+1§!\n- $building_capital_2$: £energy §G+3§! £minerals §G+3§! £food §G+3§!\n- £building $building_galactic_stock_exchange$ $technology_tree_note_raretech$\n    £trigger_no $personality_machine_intelligence$\n    £energy §G+10%§! $country_resource_energy_mult$\n- £building $building_ministry_benevolence$ $technology_tree_note_raretech$\n    £unity §G+6§!\n$technology_tree_header_future$\n- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n    $MOD_LEADER_COST$: £energy §G-20%§!\n- $MACHINE_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n- £building $building_probability_engine$ $technology_tree_note_raretech$\n    £trigger_yes $personality_machine_intelligence$\n    £energy §G+10%§! $country_resource_energy_mult$\n" 
+tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_FACTION_INFLUENCE_ADD$: §G+1§!\n- $country_resource_influence_add$: §G+1§!\n- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n    $MOD_LEADER_COST$: £energy  §G-20%§!\n- $MACHINE_species_trait_points_add$: §G+1§!\n- $MOD_COUNTRY_GOVERNMENT_CIVIC_POINTS_ADD$: §G+1§!\n- $building_capital_2$: £energy  §G+3§! £minerals  §G+3§! £food §G+3§!\n- £building  $building_galactic_stock_exchange$ $technology_tree_note_raretech$\n    £trigger_no  $personality_machine_intelligence$\n    £energy  §G+10%§! $country_resource_energy_mult$\n- £building  $building_ministry_benevolence$ $technology_tree_note_raretech$\n    £unity  §G+6§!\n$technology_tree_header_future$\n- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n    $MOD_LEADER_COST$: £energy  §G-20%§!\n- $MACHINE_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n- £building  $building_probability_engine$ $technology_tree_note_raretech$\n    £trigger_yes  $personality_machine_intelligence$\n    £energy  §G+10%§! $country_resource_energy_mult$\n" 
 
  # The Living State
  tech_living_state_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Autonomous Agents
- tech_autonomous_agents_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n    $MOD_LEADER_COST$: £energy §G-20%§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
+ tech_autonomous_agents_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_COUNTRY_LEADER_CAP$: §G+2§!\n    $MOD_LEADER_COST$: £energy  §G-20%§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # The Collective Self
  tech_collective_self_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -447,7 +447,7 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
  tech_binary_motivators_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MACHINE_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Galactic Administration
- tech_galactic_administration_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building $building_probability_engine$ $technology_tree_note_raretech$\n    £trigger_yes $personality_machine_intelligence$\n    £energy §G+10%§! $country_resource_energy_mult$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
+ tech_galactic_administration_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  $building_probability_engine$ $technology_tree_note_raretech$\n    £trigger_yes  $personality_machine_intelligence$\n    £energy  §G+10%§! $country_resource_energy_mult$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Galactic Markets
  tech_galactic_markets_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -465,22 +465,22 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
  tech_probability_theory_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Sociocultural History
- tech_cultural_heritage_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building £unity §G+4§!\n- £building £unity §G+6§!\n$technology_tree_header_future$\n- £building £unity §G+6§!\n- £building £unity §G+9§!\n-- £building £unity §G+10§!\n-- £building £unity §G+12§!\n" 
+ tech_cultural_heritage_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  £unity  §G+4§!\n- £building  £unity  §G+6§!\n$technology_tree_header_future$\n- £building  £unity  §G+6§!\n- £building  £unity  §G+9§!\n-- £building  £unity  §G+10§!\n-- £building  £unity  §G+12§!\n" 
 
  # Heritage Sites
- tech_heritage_site_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building £unity §G+6§!\n$technology_tree_header_future$\n-- £building £unity §G+10§!\n"
+ tech_heritage_site_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  £unity  §G+6§!\n$technology_tree_header_future$\n-- £building  £unity  §G+10§!\n"
 
  # Local Hypercommunication
- tech_hypercomms_forum_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building £unity §G+10§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
+ tech_hypercomms_forum_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  £unity  §G+10§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
 
  # Automated Curation Algorithms
  tech_autocurating_vault_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Holographic Rituals
- tech_holographic_rituals_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building £unity §G+9§!\n$technology_tree_header_future$\n- £building £unity §G+12§!\n"
+ tech_holographic_rituals_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  £unity  §G+9§!\n$technology_tree_header_future$\n- £building  £unity  §G+12§!\n"
 
  # Consecration Fields
- tech_consecration_fields_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building £unity §G+12§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
+ tech_consecration_fields_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  £unity  §G+12§!\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
 
  # Metacognitive Faith
  tech_transcendent_faith_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -492,7 +492,7 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
  tech_space_whale_weapon_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Genome Mapping
- tech_genome_mapping_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_engos_vapor$\n    §Y$RESOURCES$:§! £sr_engos $sr_engos$\n- $tech_pitharan_dust$\n    §Y$RESOURCES$:§! £ssr_pitharan $sr_pitharan$\n- $MOD_LEADER_AGE$: §G+10§!\n- $MOD_POP_GROWTH_SPEED$: §G+10%§!\n- §Y$FEATURE$:§! $feature_uplifting$\n- §Y$FEATURE$:§! $feature_bliss_standard$ $technology_tree_note_raretech$\n- §Y$FEATURE$:§! $feature_modify_traits$\n- §Y$FEATURE$:§! $feature_pop_self_modification$\n- £building $building_clinic$\n    $MOD_POP_GROWTH_SPEED$: §G+10%§!\n$technology_tree_header_future$\n- £building $building_hospital$\n    $MOD_POP_GROWTH_SPEED$: §G+20%§!\n- §Y$POLICY$:§! $tech_selected_lineages$ $technology_tree_note_raretech$\n    $MOD_LEADER_SKILL_LEVELS$: §G+1§!\n    $MOD_LEADER_AGE$: §G+10§!\n    $MOD_LEADER_COST$:§R+50%§!\n- §Y$FEATURE$:§! $feature_habitability_gene_modding$\n- $MOD_LEADER_AGE$: §G+5§! $technology_tree_note_repeatable$\n- £building $building_clone_vats$ $technology_tree_note_raretech$\n- §Y$buildable_army$:§! $clone_army$ $technology_tree_note_raretech$\n- §Y$buildable_army$:§! $gene_warrior_army$ $technology_tree_note_raretech$\n- §Y$buildable_army$:§! $xenomorph_army$ $technology_tree_note_raretech$\n- $species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n\n-- §Y$POLICY$:§! $tech_capacity_boosters$ $technology_tree_note_raretech$\n     $MOD_LEADER_SKILL_LEVELS$: §G+2§!\n     $MOD_LEADER_AGE$: §G+20§!\n     $MOD_LEADER_COST$:§R+100%§!\n"
+ tech_genome_mapping_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_engos_vapor$\n    §Y$RESOURCES$:§! £sr_engos  $sr_engos$\n- $tech_pitharan_dust$\n    §Y$RESOURCES$:§! £sr_pitharan  $sr_pitharan$\n- $MOD_LEADER_AGE$: §G+10§!\n- $MOD_POP_GROWTH_SPEED$: §G+10%§!\n- §Y$FEATURE$:§! $feature_uplifting$\n- §Y$FEATURE$:§! $feature_bliss_standard$ $technology_tree_note_raretech$\n- §Y$FEATURE$:§! $feature_modify_traits$\n- §Y$FEATURE$:§! $feature_pop_self_modification$\n- £building  $building_clinic$\n    $MOD_POP_GROWTH_SPEED$: §G+10%§!\n$technology_tree_header_future$\n- £building  $building_hospital$\n    $MOD_POP_GROWTH_SPEED$: §G+20%§!\n- §Y$POLICY$:§! $tech_selected_lineages$ $technology_tree_note_raretech$\n    $MOD_LEADER_SKILL_LEVELS$: §G+1§!\n    $MOD_LEADER_AGE$: §G+10§!\n    $MOD_LEADER_COST$:§R+50%§!\n- §Y$FEATURE$:§! $feature_habitability_gene_modding$\n- $MOD_LEADER_AGE$: §G+5§! $technology_tree_note_repeatable$\n- £building  $building_clone_vats$ $technology_tree_note_raretech$\n- §Y$buildable_army$:§! £pop_modifier  $clone_army$ $technology_tree_note_raretech$\n- §Y$buildable_army$:§! £pop_modifier  $gene_warrior_army$ $technology_tree_note_raretech$\n- §Y$buildable_army$:§! £pop_modifier  $xenomorph_army$ $technology_tree_note_raretech$\n- $species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n\n-- §Y$POLICY$:§! $tech_capacity_boosters$ $technology_tree_note_raretech$\n     $MOD_LEADER_SKILL_LEVELS$: §G+2§!\n     $MOD_LEADER_AGE$: §G+20§!\n     $MOD_LEADER_COST$:§R+100%§!\n"
 
  # Cyto-Revitalization
  tech_frontier_hospital_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -516,14 +516,14 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
  tech_repeatable_improved_leader_life_span_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_LEADER_AGE$: §G+5§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $MOD_LEADER_AGE$: §G+5§! $technology_tree_note_repeatable$\n" 
 
  # Epigenetic Triggers
- tech_epigenetic_triggers_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$buildable_army$:§! $xenomorph_army$ $technology_tree_note_raretech$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
+ tech_epigenetic_triggers_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$buildable_army$:§! £pop_modifier  $xenomorph_army$ $technology_tree_note_raretech$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Morphogenetic Field Mastery
   tech_morphogenetic_field_mastery_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
 
  # Cloning
- tech_cloning_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building $building_clone_vats$ $technology_tree_note_raretech$\n- §Y$buildable_army$:§! $clone_army$ $technology_tree_note_raretech$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" \n"
+ tech_cloning_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  $building_clone_vats$ $technology_tree_note_raretech$\n- §Y$buildable_army$:§! £pop_modifier  $clone_army$ $technology_tree_note_raretech$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
 
  # Gene Banks
  tech_gene_banks_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -532,7 +532,7 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
  tech_subdermal_stimulation_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Gene Tailoring
- tech_gene_tailoring_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$FEATURE$:§! $feature_habitability_gene_modding$\n- $species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n- §Y$buildable_army$:§! $gene_warrior_army$ $technology_tree_note_raretech$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
+ tech_gene_tailoring_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$FEATURE$:§! $feature_habitability_gene_modding$\n- $species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n- §Y$buildable_army$:§! £pop_modifier  $gene_warrior_army$ $technology_tree_note_raretech$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
 
  # Gene Seed Purification
  tech_gene_seed_purification_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
@@ -556,16 +556,16 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
  tech_strike_craft_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $weapon_type_strike_craft_weapon_damage_mult$: § +10%§! $technology_tree_note_repeatable$\n- $weapon_type_strike_craft_weapon_fire_rate_mult$: §G+10%§! $technology_tree_note_repeatable$\n"
 
  # 
- tech_mining_network_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §H$building_mining_network_3$§!\n    §Y$max_minerals$:§! £minerals §G+10000§!\n- £building §HMineral Processing Plant I§!\n    $PLANET_CAP$: £minerals §G+10%§!\n$technology_tree_header_future$\n-- £building §H$building_mining_network_4$§!\n-- £building §H$building_mining_network_5$§!\n     §Y$max_minerals$:§! £minerals §G+10000§!\n-- £building §H$building_mineral_processing_plant_2$§!\n     $PLANET_CAP$: £minerals §G+20%§!\n-- $tech_repeatable_improved_tile_mineral_output$ $technology_tree_note_repeatable$\n     $PLANET_TILE$: £minerals §G+5%§!\n-- $tech_mine_garanthium$\n-- $tech_mine_orillium$\n-- $tech_mine_teldar$\n-- $tech_mine_yuranic$\n"
+ tech_mining_network_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §H$building_mining_network_3$§!\n    §Y$max_minerals$:§! £minerals  §G+10000§!\n- £building  §HMineral Processing Plant I§!\n    $PLANET_CAP$: £minerals  §G+10%§!\n$technology_tree_header_future$\n-- £building  §H$building_mining_network_4$§!\n-- £building  §H$building_mining_network_5$§!\n     §Y$max_minerals$:§! £minerals  §G+10000§!\n-- £building  §H$building_mineral_processing_plant_2$§!\n     $PLANET_CAP$: £minerals  §G+20%§!\n-- $tech_repeatable_improved_tile_mineral_output$ $technology_tree_note_repeatable$\n     $PLANET_TILE$: £minerals  §G+5%§!\n-- $tech_mine_garanthium$\n-- $tech_mine_orillium$\n-- $tech_mine_teldar$\n-- $tech_mine_yuranic$\n"
 
  # 
- tech_mining_network_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §H$building_mining_network_4$§!\n- £building §H$building_mining_network_5$§!\n    §Y$max_minerals$:§! £minerals §G+10000§!\n"
+ tech_mining_network_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §H$building_mining_network_4$§!\n- £building  §H$building_mining_network_5$§!\n    §Y$max_minerals$:§! £minerals  §G+10000§!\n"
 
  # 
- tech_mineral_processing_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building §H$building_mineral_processing_plant_2$§!\n    $PLANET_CAP$: £minerals §G+20%§!\n- $tech_mine_garanthium$\n- $tech_mine_orillium$\n- $tech_mine_teldar$\n- $tech_mine_yuranic$\n$technology_tree_header_future$\n- $tech_repeatable_improved_tile_mineral_output$ $technology_tree_note_repeatable$\n    $PLANET_TILE$: £minerals §G+5%§!\n"
+ tech_mineral_processing_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £building  §H$building_mineral_processing_plant_2$§!\n    $PLANET_CAP$: £minerals  §G+20%§!\n- $tech_mine_garanthium$\n- $tech_mine_orillium$\n- $tech_mine_teldar$\n- $tech_mine_yuranic$\n$technology_tree_header_future$\n- $tech_repeatable_improved_tile_mineral_output$ $technology_tree_note_repeatable$\n    $PLANET_TILE$: £minerals  §G+5%§!\n"
 
  # 
- tech_mineral_processing_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_repeatable_improved_tile_mineral_output$ $technology_tree_note_repeatable$\n    $PLANET_TILE$: £minerals §G+5%§!\n"
+ tech_mineral_processing_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_repeatable_improved_tile_mineral_output$ $technology_tree_note_repeatable$\n    $PLANET_TILE$: £minerals  §G+5%§!\n"
 
  # 
  tech_corvette_hull_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $shipsize_corvette_hull_mult$: §G+100§! $technology_tree_note_raretech$\n"
@@ -589,19 +589,19 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
  tech_thrusters_3_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_thrusters_4$ (IV) \n"
 
  # 
- tech_powered_exoskeletons_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$FEATURE$:§! $feature_modify_robots$\n- $MACHINE_species_trait_points_add$: §G+1§!\n$technology_tree_header_future$\n- $tech_robotic_workers$ \n    £pops: $ROBOT_POP_SPECIES_1$\n    £pops: $$ROBOT_POP_SPECIES_1$_AWOKEN$ ($anomaly.185.name$)\n- $ROBOT_species_trait_points_add$: §G+1§!\n-- $tech_droid_workers$ \n     £pops: $ROBOT_POP_SPECIES_2$\n-- §Y$buildable_army$:§! $robotic_army$\n-- $ROBOT_species_trait_points_add$: §G+1§!\n---$tech_$ROBOT_POP_SPECIES_3$_workers$ $technology_tree_note_dangerous$\n      £pops: §E$ROBOT_POP_SPECIES_3$§!\n--- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n---- $tech_$ROBOT_POP_SPECIES_3$_leaders$ $technology_tree_note_dangerous$\n      §Y$FEATURE$:§! $feature_robot_leaders$\n"
+ tech_powered_exoskeletons_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$FEATURE$:§! $feature_modify_robots$\n- $MACHINE_species_trait_points_add$: §G+1§!\n$technology_tree_header_future$\n- $tech_robotic_workers$ \n    §Y$POPS$:§! £pops  $ROBOT_POP_SPECIES_1$\n    §Y$POPS$:§! £pops  $ROBOT_POP_SPECIES_1_AWOKEN$ ($anomaly.185.name$)\n- $ROBOT_species_trait_points_add$: §G+1§!\n-- $tech_droid_workers$ \n     §Y$POPS$:§! £pops  $ROBOT_POP_SPECIES_2$\n-- §Y$buildable_army$:§! £pop_modifier  $robotic_army$\n-- $ROBOT_species_trait_points_add$: §G+1§!\n---$tech_synthetic_workers$ $technology_tree_note_dangerous$\n      §Y$POPS$:§! £pops  §E$ROBOT_POP_SPECIES_3$§!\n--- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n---- $tech_synthetic_leaders$ $technology_tree_note_dangerous$\n      §Y$FEATURE$:§! $feature_robot_leaders$\n"
 
  # 
- tech_robotic_workers_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- £pops: $$ROBOT_POP_SPECIES_1$_AWOKEN$ ($anomaly.185.name$)\n    §Pdoes it work?§!\n$technology_tree_header_future$\n- $tech_droid_workers$ \n    £pops: $ROBOT_POP_SPECIES_2$\n- §Y$buildable_army$:§! $robotic_army$\n- $ROBOT_species_trait_points_add$: §G+1§!\n-- $tech_$ROBOT_POP_SPECIES_3$_workers$ $technology_tree_note_dangerous$\n     £pops: §E$ROBOT_POP_SPECIES_3$§!\n-- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n--- $tech_$ROBOT_POP_SPECIES_3$_leaders$ $technology_tree_note_dangerous$\n      §Y$FEATURE$:§! $feature_robot_leaders$\n"
+ tech_robotic_workers_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- §Y$POPS$:§! £pops  $ROBOT_POP_SPECIES_1_AWOKEN$ ($anomaly.185.name$)\n    §Pdoes it work?§!\n$technology_tree_header_future$\n- $tech_droid_workers$ \n    §Y$POPS$:§! £pops  $ROBOT_POP_SPECIES_2$\n- §Y$buildable_army$:§! £pop_modifier  $robotic_army$\n- $ROBOT_species_trait_points_add$: §G+1§!\n-- $tech_synthetic_workers$ $technology_tree_note_dangerous$\n     §Y$POPS$:§! £pops  §E$ROBOT_POP_SPECIES_3$§!\n-- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n--- $tech_synthetic_leaders$ $technology_tree_note_dangerous$\n      §Y$FEATURE$:§! $feature_robot_leaders$\n"
 
  # 
- tech_droid_workers_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_$ROBOT_POP_SPECIES_3$_workers$ $technology_tree_note_dangerous$\n    £pops: §E$ROBOT_POP_SPECIES_3$§!\n$technology_tree_header_future$\n- $tech_$ROBOT_POP_SPECIES_3$_leaders$ $technology_tree_note_dangerous$\n    §Y$FEATURE$:§! $feature_robot_leaders$\n"
+ tech_droid_workers_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_synthetic_workers$ $technology_tree_note_dangerous$\n    §Y$POPS$:§! £pops  §E$ROBOT_POP_SPECIES_3$§!\n$technology_tree_header_future$\n- $tech_synthetic_leaders$ $technology_tree_note_dangerous$\n    §Y$FEATURE$:§! $feature_robot_leaders$\n"
 
- # 
- tech_$feature_modify_robots$_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $ROBOT_species_trait_points_add$: §G+1§!\n$technology_tree_header_future$\n- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n"
+ # Machine Template System
+ tech_robomodding_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $ROBOT_species_trait_points_add$: §G+1§!\n$technology_tree_header_future$\n- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n"
 
- # 
- tech_$feature_modify_robots$_points_1_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n"
+ # Cross-Model Standardization
+ tech_robomodding_points_1_desc:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $ROBOT_species_trait_points_add$: §G+1§! $technology_tree_note_raretech$\n"
 
  # 
  tech_ship_armor_2_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_ship_armor_3$ (III)\n- $MOD_SHIP_ARMOR_ADD$: §G+5%§! $technology_tree_note_repeatable$\n$technology_tree_header_future$\n- $tech_ship_armor_4$ (IV)\n-- $tech_ship_armor_5$ (V)\n"
@@ -647,4 +647,4 @@ tech_colonial_centralization_desc_tree:0 "\n$technology_tree_title$\n$technology
 
 
  # 
- tech_colossus:0_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n$technology_tree_header_future$\n"
+ tech_colossus_desc_tree:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n$technology_tree_header_future$\n"
