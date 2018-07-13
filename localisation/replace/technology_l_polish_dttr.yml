@@ -234,4 +234,5 @@
  tech_thrusters_2_desc:0 "Te elektryczne silniki manewrowe wytwarzają ciąg bez potrzeby zużywania paliwa.\n\n $tech_thrusters_2_desc_dttr$"
  tech_thrusters_3_desc:0 "Plazmowe silniki manewrowe to zaawansowany rodzaj napędu elektrycznego pozwalający statkom rozwijać większe prędkości podświetlne i zwiększający ich zwrotność.\n\n $tech_thrusters_3_desc_dttr$"
  tech_thrusters_4_desc:0 "Te niezwykle zaawansowane termojądrowe silniki manewrowe zapewniają statkom niezrównaną zwrotność i umożliwiają rozwijanie dużych prędkości podświetlnych.\n\n $tech_thrusters_4_desc_dttr$"
+ tech_mine_garanthium_desc:0 "Stworzenie działającego kamieniołomu garantu to nie lada wyzwanie. Duża kowalność tej rudy sprawia, że jej wydobycie jest równie trudne, co atrakcyjne. $tech_mine_garanthium_desc_dttr$"
 

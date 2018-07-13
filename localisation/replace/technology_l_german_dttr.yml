@@ -234,4 +234,5 @@
  tech_thrusters_2_desc:0 "Diese elektrischen Triebwerke erzeugen mit Hilfe von Ionenstrahlen Schub. Treibstoffe werden nicht benötigt. $tech_thrusters_2_desc_dttr$"
  tech_thrusters_3_desc:0 "Plasma-Triebwerke sind eine fortschrittliche Form von Elektroantrieb und geben Schiffen bei Unterlichtbedingungen höhere Geschwindigkeiten und Manövrierbarkeit. $tech_thrusters_3_desc_dttr$"
  tech_thrusters_4_desc:0 "Diese modernsten, mit Fusionsenergie gespeisten Triebwerke geben Schiffen bei Unterlichtbedingungen unerreichte Geschwindigkeiten und Manövrierbarkeit. $tech_thrusters_4_desc_dttr$"
+ tech_mine_garanthium_desc:1 "Die erfolgreiche Einrichtung von Garanthium-Brüchen stellt einzigartige Herausforderungen an uns, da dieses Erz so dehnbar ist, dass man es nur schwer abbauen kann - so attraktiv es auch sein mag. $tech_mine_garanthium_desc_dttr$"
 

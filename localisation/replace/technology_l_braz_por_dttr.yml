@@ -234,4 +234,5 @@
  tech_thrusters_2_desc:0 "Estes propulsores elétricos utilizam raios de íons para gerar propulsão sem a necessidade de combustão.\n\n $tech_thrusters_2_desc_dttr$"
  tech_thrusters_3_desc:0 "Uma forma avançada de propulsão elétrica, propulsores de plasma concedem às naves maiores velocidades abaixo da luz e manobrabilidade.\n\n $tech_thrusters_3_desc_dttr$"
  tech_thrusters_4_desc:0 "Estes propulsores por fusão altamente avançados concedem às naves manobrabilidade e velocidade inigualáveis em condições abaixo da luz.\n\n $tech_thrusters_4_desc_dttr$"
+ tech_mine_garanthium_desc:0 "Estabelecer minas de Garanthium bem-sucedidas traz desafios únicos, já que as qualidades maleáveis do minério o faz ser igualmente difícil e atrativo de ser extraído. $tech_mine_garanthium_desc_dttr$"
 

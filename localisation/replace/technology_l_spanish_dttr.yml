@@ -234,4 +234,5 @@
  tech_thrusters_2_desc:0 "Propulsores eléctricos que usan rayones de iones para generar impulso sin necesidad de propelentes.\n\n $tech_thrusters_2_desc_dttr$"
  tech_thrusters_3_desc:0 "Es una forma avanzada de propulsión eléctrica que da a las naves más velocidad sublumínica y maniobrabilidad.\n\n $tech_thrusters_3_desc_dttr$"
  tech_thrusters_4_desc:0 "Estos propulsores de fusión muy avanzados dan a las naves una maniobrabilidad y una velocidad sin igual en condiciones sublumínicas.\n\n $tech_thrusters_4_desc_dttr$"
+ tech_mine_garanthium_desc:0 "Establecer canteras de garantio plantea muchas dificultades, ya que las cualidades maleables del mineral lo hacen tan difícil de extraer como atractivo. $tech_mine_garanthium_desc_dttr$"
 

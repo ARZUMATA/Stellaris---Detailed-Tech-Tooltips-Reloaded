@@ -472,12 +472,13 @@
 
  tech_starbase_1_desc:0 "A centralized space installation built in close orbit around the system primary is necessary to make full use of the resources in a star system. $tech_starbase_1_desc_dttr$"
 
+ tech_mine_garanthium_desc:1 "Establishing successful Garanthium quarries poses unique challenges, as the malleable qualities of the ore make it as difficult to mine as it is attractive. $tech_mine_garanthium_desc_dttr$"
 
  ########################################################
  # ADD TO LOCALISATION FILES WITH NEXT PATCH
  ########################################################
 
-
+ 
 
 
 
