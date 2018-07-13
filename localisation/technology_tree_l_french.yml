@@ -322,7 +322,7 @@
  tech_planetary_defenses_desc_dttr:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $MOD_ARMY_DEFENSE_DAMAGE_MULT$: §G+33%§!\n$technology_tree_header_future$\n- $tech_global_defense_grid$\n    $MOD_ARMY_DEFENSE_HEALTH_MULT$: §G+25%§!\n    £building  $building_fortress$\n" 
 
  # Ground Defense Planning
- tech_ground_defense_planning_desc_dttr:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_global_defense_grid$\n    $MOD_ARMY_DEFENSE_HEALTH_MULT$: §G+25%§!\n    £building  $building_fortress$\n"
+ tech_ground_defense_planning_desc_dttr:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $tech_global_defense_grid$\n    $MOD_ARMY_DEFENSE_HEALTH_MULT$: §G+25%§!\n    £building  $building_fortress$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n"
 
  # Global Defense Grid
  tech_global_defense_grid_desc_dttr:0 "\n$technology_tree_title$\n$technology_tree_header_unlocks$\n- $technology_tree_header_nothing$\n$technology_tree_header_future$\n- $technology_tree_header_nothing$\n" 
