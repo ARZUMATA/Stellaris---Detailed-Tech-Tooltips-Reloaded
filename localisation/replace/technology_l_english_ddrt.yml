@@ -234,7 +234,7 @@
 
  tech_biolab_3_desc:1 "Having the opportunity to study the multitudes of life lets us find some common ground for all living beings. The foundational building blocks of life. $tech_biolab_3_desc_dttr$"
 
- tech_alien_life_studies_desc:1 "Studying the fauna of other worlds gives insight into alien behaviors, allowing us to identify and domesticate docile entities. $tech_alien_life_studies_tree$"
+ tech_alien_life_studies_desc:1 "Studying the fauna of other worlds gives insight into alien behaviors, allowing us to identify and domesticate docile entities. $tech_alien_life_studies_desc_dttr$"
 
  tech_colonization_1_desc:1 "Calculating required resources and gear required to establish a planetary colony allows us to herd brave pioneers into grand "ark ships," confident that they will survive the long voyage across the stars to a new home. $tech_colonization_1_desc_dttr$"
 
@@ -242,7 +242,7 @@
 
  tech_colonization_3_desc:1 "Further study into the hazardous environments found on other planets help alleviate the difficulties that colonizers encounter in their day-to-day lives on foreign worlds. $tech_colonization_3_desc_dttr$"
 
- tech_colonization_4_desc:1 "Extensive study into different soil types and their ability to support crops will help improve the living conditions of our settlers on foreign worlds. $tech_colonization_4_tree$"
+ tech_colonization_4_desc:1 "Extensive study into different soil types and their ability to support crops will help improve the living conditions of our settlers on foreign worlds. $tech_colonization_4_desc_dttr$"
 
  tech_colonization_5_desc:2 "Additional study into different planetary climates will allow us to settle our population on worlds previously thought too hostile to support them. $tech_colonization_5_desc_dttr$"
 
@@ -260,13 +260,15 @@
 
  tech_tb_dense_jungle_desc:1 "Thorough cataloging, gene sequencing, and computer modeling of exobotanical ecosystems, coupled with gene editing and dispersal mechanisms, will allow us to reshape alien plant communities to our liking. $tech_tb_dense_jungle_desc_dttr$"
 
- tech_tb_noxious_swamp_desc:1 "Sapient races have been reclaiming swampland for thousands of years. A coordinated system of modular aquaducts, pump stations, chemical remediation crawlers and automated soil compactors can reclaim land at unprecedented speeds. $tech_tb_noxious_swamp_tree$"
+ tech_tb_quicksand_basin_desc:1 "The process of soil deposition normally takes millions of years. With advanced fracking, chemical engineering, and hydraulic management technologies even the poorest substrate can be turned into fertile topsoil. $tech_tb_quicksand_basin_desc_dttr$"
 
- tech_tb_massive_glacier_desc:1 "Orbital systems of mirrors and shades can effect dramatic changes in planetary climates, when managed properly. $tech_tb_massive_glacier_tree$"
+ tech_tb_noxious_swamp_desc:1 "Sapient races have been reclaiming swampland for thousands of years. A coordinated system of modular aquaducts, pump stations, chemical remediation crawlers and automated soil compactors can reclaim land at unprecedented speeds. $tech_tb_noxious_swamp_desc_dttr$"
 
- tech_tb_toxic_kelp_desc:1 "Given enough processing power, networked sensors and distributed stations, even the ocean currents can be managed to a fine level of control. $tech_tb_toxic_kelp_tree$"
+ tech_tb_massive_glacier_desc:1 "Orbital systems of mirrors and shades can effect dramatic changes in planetary climates, when managed properly. $tech_tb_massive_glacier_desc_dttr$"
 
- tech_tb_deep_sinkhole_desc:1 "Many planets exhibit extensive subsurface voids. Subterranean exploration, exploitation, and construction techniques can greatly increase the habitable area of some worlds. $tech_tb_deep_sinkhole_tree$"
+ tech_tb_toxic_kelp_desc:1 "Given enough processing power, networked sensors and distributed stations, even the ocean currents can be managed to a fine level of control. $tech_tb_toxic_kelp_desc_dttr$"
+
+ tech_tb_deep_sinkhole_desc:1 "Many planets exhibit extensive subsurface voids. Subterranean exploration, exploitation, and construction techniques can greatly increase the habitable area of some worlds. $tech_tb_deep_sinkhole_desc_dttr$"
 
  tech_space_trading_desc:1 "Trade across interstellar distances presents a new set of challenges to overcome. It is critical to achieve the transfer of goods from one system to another in a timely and above all cost efficient manner. $tech_space_trading_desc_dttr$"
 
@@ -286,7 +288,7 @@
 
  tech_glandular_acclimation_desc:0 "Through glandular biological tailoring we can change the environmental tolerance of a species to suit our needs. $tech_glandular_acclimation_desc_dttr$"
 
- tech_gene_seed_purification_desc:1 "Nucleotide purification techniques allow for the isolation and refinement of particularly desirable genetic traits. $tech_gene_seed_purification_tree$"
+ tech_gene_seed_purification_desc:1 "Nucleotide purification techniques allow for the isolation and refinement of particularly desirable genetic traits. $tech_gene_seed_purification_desc_dttr$"
 
  tech_morphogenetic_field_mastery_desc:1 "From its cradle as a purely pharmaceutical venture, advancements in our understanding of the morphogenetic field allow for direct, subconscious interfaces with organic units. $tech_morphogenetic_field_mastery_desc_dttr$"
 
@@ -388,10 +390,6 @@
 
  tech_biomechanics_desc:0 "Millions of years of organic evolution will sometimes, through sheer persistence, produce elegant solutions that can also be applied to machine designs. $tech_biomechanics_desc_dttr$"
 
- ########################################################
- # ADD TO LOCALISATION FILES WITH LAST PATCH
- ########################################################
-
  tech_mine_teldar_desc:0 "Teldar crystals emanate tell-tale wavelengths of light outside the visible spectrum. $tech_mine_teldar_desc_dttr$"
 
  tech_mine_yuranic_desc:0 "Yurantic crystals have rare reflective properties that enhance the effectiveness of energy weapons. $tech_mine_yuranic_desc_dttr$"
@@ -467,18 +465,86 @@
  tech_mega_engineering_desc:0 "To complete constructing projects of truly staggering scales we must first achieve a fundamental understanding of both the engineering and resource storage requirements for such megastructures. $tech_mega_engineering_desc_dttr$"
 
  tech_repeatable_improved_military_station_damage_desc:1 "Cross-linking weapon systems to fire in staggered volleys improves the actual damage output of Military Stations over time. $tech_repeatable_improved_military_station_damage_desc_dttr$"
- 
+
  tech_repeatable_improved_military_station_health_desc:1 "Additional layers of armor plating within the structure itself improves the resilience of Military Stations. $tech_repeatable_improved_military_station_health_desc_dttr$"
 
  tech_starbase_1_desc:0 "A centralized space installation built in close orbit around the system primary is necessary to make full use of the resources in a star system. $tech_starbase_1_desc_dttr$"
 
  tech_mine_garanthium_desc:1 "Establishing successful Garanthium quarries poses unique challenges, as the malleable qualities of the ore make it as difficult to mine as it is attractive. $tech_mine_garanthium_desc_dttr$"
 
+ tech_neural_implants_desc:2 "Cognition is little but the processing of sensory input. It can be altered. $tech_neural_implants_desc_dttr$"
+ 
+
+
+ tech_amoeba_strike_craft_1_desc:1 "By breeding Space Amoebas in captivity, we can program their symbiotic flagella to act as organic strike craft for our navy. $tech_amoeba_strike_craft_1_desc_dttr$"
+
+ tech_doctrine_fleet_size_1_desc:1 "Gradual adaptation to the realities of deep-space combat allows us to effectively coordinate larger maneuvers. $tech_doctrine_fleet_size_1_desc_dttr$"
+
+ tech_doctrine_fleet_size_2_desc:1 "Gradual adaptation to the realities of deep-space combat allows us to effectively coordinate larger maneuvers. $tech_doctrine_fleet_size_2_desc_dttr$"
+
+ tech_doctrine_fleet_size_3_desc:1 "Gradual adaptation to the realities of deep-space combat allows us to effectively coordinate larger maneuvers. $tech_doctrine_fleet_size_3_desc_dttr$"
+
+ tech_doctrine_fleet_size_4_desc:1 "Gradual adaptation to the realities of deep-space combat allows us to effectively coordinate larger maneuvers. $tech_doctrine_fleet_size_4_desc_dttr$"
+
+ tech_doctrine_fleet_size_5_desc:1 "Gradual adaptation to the realities of deep-space combat allows us to effectively coordinate larger maneuvers. $tech_doctrine_fleet_size_5_desc_dttr$"
+
+ tech_repeatable_command_limit_desc:0 "Improving the support staff available to our admirals will increase the number of ships they can command in a single fleet. $tech_repeatable_command_limit_desc_dttr$"
+
+ tech_command_matrix_desc:1 "Restructuring the chain of command and deciding what interdependencies are set between officers, make fleets more responsive and effective. $tech_command_matrix_desc_dttr$"
+
+ tech_interstellar_fleet_traditions_desc:1 "A body of knowledge regarding combat behaviors is useless without a strong code governing its use. $tech_interstellar_fleet_traditions_desc_dttr$"
+
+ tech_refit_standards_desc:1 "Standardizing workflows for upgrading and retrofitting ship components can lead to massive efficiency gains. $tech_refit_standards_desc_dttr$"
+
+ tech_doctrine_navy_size_1_desc:1 "As extrasolar expeditions become more common, it is important to provide planetside relief for returning fleets. $tech_doctrine_navy_size_1_desc_dttr$"
+
+ tech_doctrine_navy_size_2_desc:1 "A fleet does not run on zeal alone. To ensure steady access to critical supplies, we should organize our logistics corps into dedicated support vessels. $tech_doctrine_navy_size_2_desc_dttr$"
+
+ tech_doctrine_navy_size_3_desc:0 "Amateurs talk about tactics. Professionals study logistics. By ensuring our fleets are regularly and efficiently supplied, we can increase the number of vessels we can effectively support. $tech_doctrine_navy_size_3_desc_dttr$"
+
+ tech_doctrine_navy_size_4_desc:0 "By maintaining a professional corps of fleet liasions, we can improve communications and the flow of orders throughout the chain of command. $tech_doctrine_navy_size_4_desc_dttr$"
+
+ tech_repeatable_naval_cap_desc:0 "Improved fleet management procedures will free up the resources needed to maintain a bigger fleet. $tech_repeatable_naval_cap_desc_dttr$"
+
+ tech_centralized_command_desc:1 "Creating dedicated headquarters for all levels of military operations shapes an efficient fleet, and lays a better foundation for future military training. $tech_centralized_command_desc_dttr$"
+
+ tech_combat_training_desc:1 "A more extensive training program for new recruits, including realistic combat scenarios, prepare them for the field. $tech_combat_training_desc_dttr$"
+
+ tech_repeatable_improved_army_damage_desc:1 "Iterating on the standard conditioning regimen for ground troops has proven to make them more effective in direct combat. $tech_repeatable_improved_army_damage_desc_dttr$"
+
+ tech_repeatable_improved_army_health_desc:1 "Careful tuning of pain receptors allow soldiers to fight through what would previously have been debilitating injuries. $tech_repeatable_improved_army_health_desc_dttr$"
+
+ tech_galactic_ambitions_desc:3 "Our future lies in the sea of stars. $tech_galactic_ambitions_desc_dttr$"
+
+ tech_interstellar_campaigns_desc:0 "A well-oiled war machine is the key to exerting influence on a galactic scale. Backed by the might of our military, we can lay claim to almost anything we want. $tech_interstellar_campaigns_desc_dttr$"
+
+ tech_manifest_destiny_desc:1 "We must have to courage to seize our fate and make true what was always meant to be. $tech_manifest_destiny_desc_dttr$"
+
+ tech_repeatable_improved_starbase_capacity_desc:1 "The immense logistical support networks needed to maintain an upgraded Starbase can be further improved, allowing us to support more of these stations. $tech_repeatable_improved_starbase_capacity_desc_dttr$
+
+ tech_galactic_campaigns_desc:0 "Further improvements to administration grant an extended power projection across the stars, and the military clout needed to enforce our demands. $tech_galactic_campaigns_desc_dttr$"
+
+ tech_artificial_moral_codes_desc:1 "It is circumstance that dictates what is moral. Define the circumstances, and ethics is like clay in your hands. $tech_artificial_moral_codes_desc_dttr$"
+
+ tech_repeatable_improved_edict_length_desc:1 "More aggressive information campaigns improve the populace's receptiveness to Edicts. $tech_repeatable_improved_edict_length_desc_dttr$"
+
+ tech_synthetic_thought_patterns_desc:2 "Thinking outside the box merely places you in another, somewhat larger box. $tech_synthetic_thought_patterns_desc_dttr$"
+
+ tech_regenerative_hull_tissue_desc:0 "A genetically altered version of silicon-based bacteria could potentially be manipulated to regenerate non-organic materials. $tech_regenerative_hull_tissue_desc_dttr$"
+
+ tech_frontier_hospital_desc_machine_intelligence:0 "These factories are essentially self-aware entities that continually optimize themselves with only minimal input from the central Machine Intelligence. $tech_frontier_hospital_desc_machine_intelligence_dttr$"
+
  ########################################################
  # ADD TO LOCALISATION FILES WITH NEXT PATCH
  ########################################################
 
- 
+
+
+
+ ############################
+ # ADD TO DLC LOCALISATION FILES WITH NEXT PATCH
+ ############################
+
 
 
 
@@ -495,5 +561,10 @@
 
 
 
+
+
+
+
+"
 
 
