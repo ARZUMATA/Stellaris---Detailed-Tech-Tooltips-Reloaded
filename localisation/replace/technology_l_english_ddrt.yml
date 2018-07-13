@@ -388,9 +388,9 @@
 
  tech_biomechanics_desc:0 "Millions of years of organic evolution will sometimes, through sheer persistence, produce elegant solutions that can also be applied to machine designs. $tech_biomechanics_desc_tree$"
 
- ############################
- # ADD TO LOCALISATION FILES
- ############################
+ ########################################################
+ # ADD TO LOCALISATION FILES WITH LAST PATCH
+ ########################################################
 
  tech_mine_teldar_desc:0 "Teldar crystals emanate tell-tale wavelengths of light outside the visible spectrum. $tech_mine_teldar_desc_tree$"
 
@@ -408,4 +408,91 @@
 
  tech_synthetic_leaders_desc:0 "Equipped with a personality, synthetics will finally be able to interact socially on equal terms with the rest of our citizens. Some units may even assume leadership roles. $tech_synthetic_leaders_desc_tree$"
 
- tech_space_construction_desc:0 "Construction in space presents our engineers with new design challenges that must be solved before we can build orbital stations above other worlds."
+ tech_space_construction_desc:0 "Construction in space presents our engineers with new design challenges that must be solved before we can build orbital stations above other worlds. $tech_space_construction_desc_tree$"
+
+ tech_mine_betharian_desc:0 "The Betharian minerals appear to have originated from singular source, but were scattered across the galaxy millennia ago. The minerals are most often encountered as pebble-sized clusters, and are highly flammable. $tech_mine_betharian_desc_tree$"
+
+ tech_mine_living_metal_desc:0 "Mining and processing the rare living metals is exceedingly difficult, but successful application of the mutable alloys yields incomparable advantages. $tech_mine_living_metal_desc_tree$"
+
+ tech_crystal_armor_1_desc:1 "By infusing armor plating with Crystalline matter we are able to further increase the durability of our ships' protective hulls. $tech_crystal_armor_1_desc_tree$"
+
+ tech_crystal_armor_2_desc:1 "Introducing Crystalline matter into the forging process further improves the ultra-hard qualities of crystal-infused metals. $tech_crystal_armor_2_desc_tree$"
+
+ tech_dragon_armor_desc:0 "The Ether Drake's scales are made up of multiple layers of unique mineral nanostructures. Unorthodox manufacturing techniques allow us to closely emulate these self-repairing structures. $tech_dragon_armor_desc_tree$"
+
+ tech_ship_armor_1_desc:0 "Reinforced nanocomposite hull plating can provide an extra layer of protection that could be the difference between life and death in a combat situation. $tech_ship_armor_1_desc_tree$"
+
+ tech_ship_armor_2_desc:0 "A combination of different metals and ceramics that result in a strong armor without sacrificing flexibility. $tech_ship_armor_2_desc_tree$"
+
+ tech_ship_armor_3_desc:0 "Plasteel is an elastic material that combines many of the qualities of plastics and metal. It is relatively cheap to produce and can be used to augment ship armor. $tech_ship_armor_3_desc_tree$"
+
+ tech_ship_armor_4_desc:0 "This strong yet flexible material is capable of withstanding severe punishment. It serves well as ship armor. $tech_ship_armor_4_desc_tree$"
+
+ tech_ship_armor_5_desc:0 "This incredibly dense and strong material can resist firepower that would turn armor made of any other alloys into slag. $tech_ship_armor_5_desc_tree$"
+
+ tech_repeatable_improved_armor_output_desc:1 "Compressing suitable materials into ultra-dense forms is a cheap and efficient way to improve their ability to absorb weapons-grade impacts. $tech_repeatable_improved_armor_output_desc_tree$"
+
+ tech_thrusters_1_desc:0 "Simple yet moderately effective chemical thrusters that rely on combustible propellant to  function. $tech_thrusters_1_desc_tree$"
+
+ tech_thrusters_2_desc:0 "These electric thrusters use beams of ions to generate thrust without the need for propellant. $tech_thrusters_2_desc_tree$"
+
+ tech_thrusters_3_desc:0 "An advanced form of electric propulsion, plasma thrusters afford ships greater sublight speeds and maneuverability. $tech_thrusters_3_desc_tree$"
+
+ tech_thrusters_4_desc:0 "These highly advanced fusion-powered thrusters provide ships with unmatched maneuverability and speed under sublight conditions. $tech_thrusters_4_desc_tree$"
+
+ tech_afterburners_1_desc:0 "These powerful thrusters provide additional combat speed but consume a great deal of power. $tech_afterburners_1_desc_tree$"
+
+ tech_afterburners_2_desc:0 "This improved version of the standard afterburners provide an even greater boost to a ship's combat speed. $tech_afterburners_2_desc_tree$"
+
+ tech_assault_armies_desc:0 "The invasion of another world is a staggering enterprise. There are immense logistical challenges that must be overcome before we can muster our first interplanetary armies. $tech_assault_armies_desc_tree$"
+
+ tech_starbase_2_desc:0 "The earliest starbases were little more than makeshift outposts. Permanent starports will enable us to maintain a firmer grip on star systems. $tech_starbase_2_desc_tree$"
+
+ tech_repeatable_weapon_type_strike_craft_fire_damage_desc:1 "Increasing the speed at which fighter pilots can process and act upon enemy positioning data elevates strike craft a few steps up the food chain. $tech_repeatable_weapon_type_strike_craft_fire_damage_desc_tree$"
+
+ tech_repeatable_weapon_type_strike_craft_fire_rate_desc:1 "Circulating excess heat from weapons discharge in order to prime munitions as they are loaded increases the rate of fire of strike craft weaponry. $tech_repeatable_weapon_type_strike_craft_fire_rate_desc_tree$"
+
+ tech_starbase_3_desc:0 "As space traffic increases, larger and more defensible starbases are needed to maintain control over system spacelanes. $tech_starbase_3_desc_tree$"
+
+ tech_starbase_4_desc:0 "These mighty space forts will provide a focal point for all military activity in a star system, and their presence is sure to deter all but the most stubborn attackers. $tech_starbase_4_desc_tree$"
+
+ tech_starbase_5_desc:0 "Plans for an immense battlestation capable of holding its own against several strike fleets are now being drawn up. If realized, these citadels will become monuments to greatness as much as system hubs. $tech_starbase_5_desc_tree$"
+
+ tech_modular_engineering_desc:0 "Streamlined starbase construction procedures, using modular designs, will halve the present build cost and time. $tech_modular_engineering_desc_tree$"
+
+ tech_defense_platform_hull_1_desc:0 "A reinforced framework and blast shields with enhanced impact absorption will ensure the structural integrity of the platform even under immense pressure. $tech_defense_platform_hull_1_desc_tree$"
+
+ tech_space_defense_station_improvement_desc:0 "The creation of a dedicated naval engineering corps will greatly benefit the construction of deep space defense platforms, decreasing building costs and increasing durability. $tech_space_defense_station_improvement_desc_tree$"
+
+ tech_mega_engineering_desc:0 "To complete constructing projects of truly staggering scales we must first achieve a fundamental understanding of both the engineering and resource storage requirements for such megastructures. $tech_mega_engineering_desc_tree$"
+
+ tech_repeatable_improved_military_station_damage_desc:1 "Cross-linking weapon systems to fire in staggered volleys improves the actual damage output of Military Stations over time. $tech_repeatable_improved_military_station_damage_desc_tree$"
+ 
+ tech_repeatable_improved_military_station_health_desc:1 "Additional layers of armor plating within the structure itself improves the resilience of Military Stations. $tech_repeatable_improved_military_station_health_desc_tree$"
+
+ tech_starbase_1_desc:0 "A centralized space installation built in close orbit around the system primary is necessary to make full use of the resources in a star system. $tech_starbase_1_desc_tree$"
+
+
+ ########################################################
+ # ADD TO LOCALISATION FILES WITH NEXT PATCH
+ ########################################################
+
+
+
+
+
+
+ ############################
+ # ADD DESC TREE
+ ############################
+
+
+
+
+
+
+
+
+
+
+
