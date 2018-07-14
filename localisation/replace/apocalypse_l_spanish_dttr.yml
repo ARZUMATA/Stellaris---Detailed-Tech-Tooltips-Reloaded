@@ -2,3 +2,12 @@
 
  tech_ftl_inhibitor_desc:1 "Se pueden usar proyectores de pozo gravitatorio para crear bolsillos de espacio localizados en los que es imposible entrar al hiperespacio. Los inmensos requisitos de energía y el tamaño de los proyectores impiden su uso en nada menor que una base estelar. $tech_ftl_inhibitor_desc_dttr$"
 
+ tech_pk_cracker_desc:0 "$PLANET_KILLER_CRACKER_DESC$" $tech_pk_cracker_desc_dttr$
+
+ tech_pk_shielder_desc:0 "$PLANET_KILLER_SHIELDER_DESC$" $tech_pk_shielder_desc_dttr$
+
+ tech_pk_neutron_desc:0 "$PLANET_KILLER_NEUTRON_DESC$ $tech_pk_neutron_desc_dttr$"
+
+ tech_pk_godray_desc:1 "Un catalizador arcano que amplifica ciertas longitudes de ondas psiónicas capaces de inducir alucinaciones (experiencias religiosas) en cerebros biológicos y graves disrupciones (muerte cerebral) en los electrónicos. $tech_pk_godray_desc_dttr$"
+
+ tech_pk_nanobots_desc:0 "$PLANET_KILLER_NANOBOTS$ $tech_pk_nanobots_desc_dttr$"

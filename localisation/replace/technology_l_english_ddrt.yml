@@ -12,16 +12,6 @@
 
  tech_planetary_defenses_desc:0 "There may come a time when intellects, vast and cool and unsympathetic, regard our worlds with envy and draw plans against us. We must be ready. $tech_planetary_defenses_desc_dttr$"
 
- tech_ship_armor_2_desc:0 "A combination of different metals and ceramics that result in a strong armor without sacrificing flexibility. $tech_ship_armor_2_desc_dttr$"
-
- tech_ship_armor_3_desc:0 "Plasteel is an elastic material that combines many of the qualities of plastics and metal. It is relatively cheap to produce and can be used to augment ship armor. $tech_ship_armor_3_desc_dttr$"
-
- tech_ship_armor_4_desc:0 "This strong yet flexible material is capable of withstanding severe punishment. It serves well as ship armor. $tech_ship_armor_4_desc_dttr$"
-
- tech_thrusters_2_desc:0 "These electric thrusters use beams of ions to generate thrust without the need for propellant. $tech_thrusters_2_desc_dttr$"
-
- tech_thrusters_3_desc:0 "An advanced form of electric propulsion, plasma thrusters afford ships greater sublight speeds and maneuverability. $tech_thrusters_3_desc_dttr$"
-
  tech_powered_exoskeletons_desc:0 "Wearing a powered exoskeleton suit augments the user's strength and speed. The military applications are obvious, but it will also increase labor efficiency. $tech_powered_exoskeletons_desc_dttr$"
 
  tech_mining_network_2_desc:0 "New fracking techniques will allow us to tap into previously unattainable pockets of geothermal resources deep beneath the planet's crust. $tech_mining_network_2_desc_dttr$"
@@ -51,14 +41,6 @@
  tech_robomodding_points_1_desc:0 "Improved production practices allow for greater alterations to synthetic workers without compromising core functionality. $tech_robomodding_points_1_desc_dttr$"
 
  tech_mine_satramene_desc:1 "This gas is a naturally occurring stimulant found on some worlds. It has a calming effect on most beings, and can be used as a non-violent way of pacifying hostile individuals. $tech_mine_satramene_desc_dttr$"
-
- tech_missiles_2_desc:0 "These updated space-to-space missiles have more powerful fusion warheads and improved flight performance. $tech_missiles_2_desc_dttr$"
-
- tech_missiles_3_desc:0 "Advanced missiles equipped with very powerful antimatter warheads. A new and improved guidance system gives them a better chance of finding their targets. $tech_missiles_3_desc_dttr$"
-
- tech_missiles_4_desc:0 "The latest version of space-to-space missile, this upgraded variant has an immensely powerful warhead that draws its energy from a zero point vacuum. $tech_missiles_4_desc_dttr$"
-
- tech_swarmer_missiles_1_desc:0 "These smaller missiles are launched in volleys and have been specifically designed to overwhelm enemy point-defense systems. $tech_swarmer_missiles_1_desc_dttr$"
 
  tech_databank_uplinks_desc:0 "High-capacity quantum bands dedicated to databank transfers make possible virtually completely synchronous research operations across vast distances. $tech_databank_uplinks_desc_dttr$"
 
@@ -352,8 +334,6 @@
 
  tech_space_whale_weapon_1_desc:1 "Adapting the Tiyanki method of siphoning energy from gaseous matter, it is possible to construct weapons draining energy from enemy ships. $tech_space_whale_weapon_1_desc_dttr$"
 
- tech_repeatable_improved_armor_output_desc:1 "Compressing suitable materials into ultra-dense forms is a cheap and efficient way to improve their ability to absorb weapons-grade impacts. $tech_repeatable_improved_armor_output_desc_dttr$"
-
  tech_repeatable_improved_tile_energy_output_desc:1 "Minor improvements to transmission efficiency adds up to a sizeable reduction in overall energy loss. $tech_repeatable_improved_tile_energy_output_desc_dttr$"
 
  tech_repeatable_improved_shield_output_desc:1 "The basic mechanics of ship shields are complex, but they can be adjusted and improved in a multitude of ways. $tech_repeatable_improved_shield_output_desc_dttr$"
@@ -473,8 +453,6 @@
  tech_mine_garanthium_desc:1 "Establishing successful Garanthium quarries poses unique challenges, as the malleable qualities of the ore make it as difficult to mine as it is attractive. $tech_mine_garanthium_desc_dttr$"
 
  tech_neural_implants_desc:2 "Cognition is little but the processing of sensory input. It can be altered. $tech_neural_implants_desc_dttr$"
- 
-
 
  tech_amoeba_strike_craft_1_desc:1 "By breeding Space Amoebas in captivity, we can program their symbiotic flagella to act as organic strike craft for our navy. $tech_amoeba_strike_craft_1_desc_dttr$"
 
@@ -534,9 +512,131 @@
 
  tech_frontier_hospital_desc_machine_intelligence:0 "These factories are essentially self-aware entities that continually optimize themselves with only minimal input from the central Machine Intelligence. $tech_frontier_hospital_desc_machine_intelligence_dttr$"
 
+ tech_psionic_theory_desc:1 "The mind is in many ways a reflection of the universe itself, a microcosmos. All species may not reach this insight, but their minds are tools greater than any other. $tech_psionic_theory_desc_dttr$"
+
+ tech_telepathy_desc:1 "Once fully adapted to the basics of Psionics, the mind is capable of connecting to other individuals, becoming something greater. $tech_telepathy_desc_dttr$"
+
+ tech_precognition_interface_desc:1 "Advances in the field of Psionics suggest the possibility of creating combat computers capable of reading and analysing the impulses of telepathic operatives before they are cognitively processed. $tech_precognition_interface_desc_dttr$"
+
+ tech_psi_jump_drives_desc:1 "The Psi Jump Drive harnesses the psi energies emitted by the crew to force the vessel through the very fabric of reality, instantly "jumping" vast distances. $tech_psi_jump_drives_desc_dttr$"
+
+ tech_psionic_shield_desc:0 "These extremely powerful shields are generated out of pure psychic energy by a cadre of psionic specialists. Their powers are further augmented by large arrays of psi emitters. $tech_psionic_shield_desc_dttr$"
+
+ tech_ascension_theory_desc:0 "Our history is a repeating cycle of dramatic technological, political, and cultural leaps; these leaps are often preceded by periods of upheaval and followed by times of relative stability. By identifying the core, recurring premises of these leaps, we may be able to effectively short-circuit the cycle for our own benefit. $tech_ascension_theory_desc_dttr"
+
+ tech_genetic_resequencing_desc:0 "No longer will we be limited by the basic biological structure of a species when striving to improve them. DNA is just another material to be shaped as the sculptor wills it. $tech_genetic_resequencing_desc_dttr"
+
+ tech_scourge_missile_1_desc:1 "By analyzing the biological weaponry employed by the Swarm we can create self-propelled projectiles weapons spreading the very same horrific destruction. $tech_scourge_missile_1_desc_dttr"
+
+ tech_swarm_strike_craft_1_desc:1 "Collecting specimens from defeated Prethoryn enables us to clone and genetically program a war-brood of our own. $tech_swarm_strike_craft_1_desc_dttr"
+
+ tech_mass_drivers_1_desc:0 "These electromagnetic projectile launchers use magnets to accelerate armor-piercing rounds towards targets at high speeds. $tech_mass_drivers_1_desc_dttr$"
+
+ tech_mass_drivers_2_desc:0 "Coilguns are more powerful versions of the early mass drivers, using electromagnetic coils to rapidly accelerate projectiles towards targets. $tech_mass_drivers_2_desc_dttr$"
+
+ tech_mass_drivers_3_desc:0 "The latest in electromagnetic accelerators, railguns use twin parallel rails to fire projectiles at incredible speeds. $tech_mass_drivers_3_desc_dttr$"
+
+ tech_mass_drivers_4_desc:0 "A new version of the venerable railgun, with sturdier rails and an enhanced power supply. These weapons are even more powerful and accurate than their predecessors. $tech_mass_drivers_4_desc_dttr$"
+
+ tech_mass_drivers_5_desc:0 "This updated version of the old coilgun design is even more destructive than the latest railgun designs. It is capable of launching projectiles with incredible accuracy and speed. $tech_mass_drivers_5_desc_dttr$"
+
+ tech_kinetic_artillery_1_desc:0 "Very long-range artillery capable of hurling powerful rounds over extreme distances with a large degree of accuracy. $tech_kinetic_artillery_1_desc_dttr$"
+
+ tech_kinetic_artillery_2_desc:0 "An even more powerful long-range, ship-based artillery cannon, equipped with a new barrel and an upgraded fire control computer. $tech_kinetic_artillery_2_desc_dttr$"
+
+ tech_mass_accelerator_1_desc:0 "An enormous mass accelerator cannon that can only be placed in a spinal mount and fires monstrously powerful rounds over vast distances. $tech_mass_accelerator_1_desc_dttr$"
+
+ tech_mass_accelerator_2_desc:0 "An even more powerful mass accelerator cannon that can rip through even the toughest shields. $tech_mass_accelerator_2_desc_dttr$"
+
+ tech_autocannons_1_desc:0 "Large-caliber ballistic weapons that fire cased explosive shells. The main advantage of these cannons is their high rate of fire. $tech_autocannons_1_desc_dttr$"
+
+ tech_autocannons_2_desc:0 "These upgraded rotary autocannons feature improved tracking and fire control systems. This allows them to maintain an even higher rate of fire. $tech_autocannons_2_desc_dttr$"
+
+ tech_autocannons_3_desc:1 "Advanced rotary autocannons capable of spewing a cloud of high-explosive shells at a target. $tech_autocannons_3_desc_dttr$"
+
+ tech_flak_batteries_1_desc:1 "Gun batteries that fire shrapnel rounds at close range. They are particularly lethal to enemy strike craft, but can also defend against missiles. $tech_flak_batteries_1_desc_dttr$"
+
+ tech_flak_batteries_2_desc:1 "Upgraded flak batteries with new, more powerful shrapnel rounds. $tech_flak_batteries_2_desc_dttr$"
+
+ tech_flak_batteries_3_desc:1 "Predictive tracking algorithms and even more powerful rounds make these batteries incredibly lethal to enemy strike craft. $tech_flak_batteries_3_desc_dttr$"
+
+ tech_repeatable_weapon_type_kinetic_damage_desc:1 "Ultra-dense slugs can punch through even the strongest of projected shields. $tech_repeatable_weapon_type_kinetic_damage_desc_dttr$
+ 
+ tech_repeatable_weapon_type_kinetic_fire_rate_desc:1 "Minor technical advances combine with improved shipboard routines for handling munitions to provide a noticeable boost in fire rate. $tech_repeatable_weapon_type_kinetic_damage_desc_dttr$"
+
+ tech_missiles_1_desc:0 "Space-to-space missiles equipped with high-yield nuclear warheads. Although based on old pre-space technology, these crude fire-and-forget weapons can be surprisingly effective at range. $tech_missiles_1_desc_dttr$"
+
+ tech_missiles_2_desc:0 "These updated space-to-space missiles have more powerful fusion warheads and improved flight performance. $tech_missiles_2_desc_dttr$"
+
+ tech_missiles_3_desc:0 "Advanced missiles equipped with very powerful antimatter warheads. A new and improved guidance system gives them a better chance of finding their targets. $tech_missiles_3_desc_dttr$"
+
+ tech_missiles_4_desc:0 "The latest version of space-to-space missile, this upgraded variant has an immensely powerful warhead that draws its energy from a zero point vacuum. $tech_missiles_4_desc_dttr$"
+
+ tech_missiles_5_desc:0 "These highly advanced missiles are equipped with limited onboard AI pilots that substantially improve their performance and ability to track targets. $tech_missiles_5_desc_dttr$"
+
+ tech_swarmer_missiles_1_desc:0 "These smaller missiles are launched in volleys and have been specifically designed to overwhelm enemy point-defense systems. $tech_swarmer_missiles_1_desc_dttr$"
+
+ tech_swarmer_missiles_2_desc:0 "New miniaturization techniques will allow us to equip swarmer missiles with more powerful warheads and improved flight performance. $tech_swarmer_missiles_2_desc_dttr$"
+
+ tech_torpedoes_1_desc:0 "These torpedoes are essentially very large, slow-moving missiles. They are equipped with more powerful warheads and shield modulators that let them slip unmolested through energy screens. $tech_torpedoes_1_desc_dttr$"
+
+ tech_torpedoes_2_desc:0 "Upgraded space torpedoes encased in armor, to better withstand enemy point-defense fire. The armor fragments into shards that cause additional damage when the torpedo detonates. $tech_torpedoes_2_desc_dttr$"
+
+ tech_torpedoes_3_desc:0 "Advanced torpedoes with very powerful warheads. They have a sleeker design, faster engines and upgraded shield modulators for slipping through energy screens. $tech_torpedoes_3_desc_dttr$"
+
+ tech_repeatable_weapon_type_explosive_damage_desc:1 "With the chemical reaction tightly controlled by missile-board microprocessors, warhead detonations can be tuned for maximum effect for local conditions at the time of impact. $tech_repeatable_weapon_type_explosive_damage_desc_dttr$"
+
+ tech_repeatable_weapon_type_explosive_fire_rate_desc:1 "Advances in miniaturization allow for more rapid loading and discharging of rocket-propelled payloads. $tech_repeatable_weapon_type_explosive_fire_rate_desc_dttr$"
+
+ tech_space_exploration_desc:0 "The realization of faster-than-light travel is a new dawn for space exploration. Manned missions to other star systems are now not only possible, but necessary. $tech_space_exploration_desc_dttr$"
+
+ tech_corvettes_desc:0 "The FTL breakthrough allowed early attempts to adapt traditional surface-to-space shuttle frames to military applications to finally create relatively small, fast, and maneuverable vessels with limited firepower. $tech_corvettes_desc_dttr$"
+
+ tech_destroyers_desc:0 "While larger than Corvettes, Destroyer hull configurations still make for comparatively nimble gunboats. $tech_destroyers_desc_dttr$"
+
+ tech_cruisers_desc:0 "Originally devised as an experimental next-generation colony ship hull configuration, the design's ample hardpoints made it ideal for carrying heavy weapons ordnance. $tech_cruisers_desc_dttr$"
+
+ tech_battleships_desc:0 "The largest of the standard military vessels, Battleships are traditionally heavily armored and sport several gun batteries. $tech_battleships_desc_dttr$"
+
+ tech_titans_desc:0 "Modeled after the hulking shadows looming in the core systems of Stagnant Ascendancies, the Titan class can be outfitted with X-size weapons. $tech_titans_desc_dttr$"
+
+ tech_colossus_desc:0 "Advances in mega-engineering make blur the lines between reality and the fantastical, enabling the construction of Colossus-class military vessels that carry weapons capable of obliterating - or fundamentally altering - entire worlds, with the push of a button. $tech_colossus_desc_dttr$"
+
+ tech_corvette_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable corvettes. $tech_corvette_hull_1_desc_dttr$"
+
+ tech_corvette_hull_2_desc:0 "The latest generation of corvette hulls have optimized structural integrity fields and improved bulkheads. $tech_corvette_hull_2_desc_dttr$"
+
+ tech_corvette_build_speed_desc:0 "Establishing new standards for the modeling and construction of corvettes greatly improves the efficiency of the production pipeline. $tech_corvette_build_speed_desc_dttr$"
+
+ tech_destroyer_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable destroyers. $tech_destroyer_hull_1_desc_dttr$"
+
+ tech_destroyer_hull_2_desc:0 "The latest generation of destroyer hulls have optimized structural integrity fields and improved bulkheads. $tech_destroyer_hull_2_desc_dttr$"
+
+ tech_destroyer_build_speed_desc:0 "Establishing new standards for the modeling and construction of destroyers greatly improves the efficiency of the production pipeline. $tech_destroyer_build_speed_desc_dttr$"
+
+ tech_cruiser_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable cruisers. $tech_cruiser_hull_1_desc_dttr$"
+
+ tech_cruiser_hull_2_desc:0 "The latest generation of cruiser hulls have optimized structural integrity fields and improved bulkheads. $tech_cruiser_hull_2_desc_dttr$"
+
+ tech_cruiser_build_speed_desc:0 "Establishing new standards for the modeling and construction of cruisers greatly improves the efficiency of the production pipeline. $tech_cruiser_build_speed_desc_dttr$"
+
+ tech_battleship_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable battleships. $tech_battleship_hull_1_desc_dttr$"
+
+ tech_battleship_hull_2_desc:0 "The latest generation of battleship hulls have optimized structural integrity fields and improved bulkheads. $tech_battleship_hull_2_desc_dttr$"
+
+ tech_battleship_build_speed_desc:0 "Establishing new standards for how we design and construct massive battleships greatly improves the speed at which they can be assembled. $tech_battleship_build_speed_desc_dttr$"
+
+ tech_titan_hull_1_desc:0 "Advances in building techniques will allow for the construction of sturdier and more durable titans. $tech_titan_hull_1_desc_dttr$"
+
+ tech_titan_hull_2_desc:0 "The latest generation of titan hulls have optimized structural integrity fields and improved bulkheads. $tech_titan_hull_2_desc_dttr$"
+
+
  ########################################################
  # ADD TO LOCALISATION FILES WITH NEXT PATCH
  ########################################################
+
+
+
 
 
 
@@ -561,10 +661,4 @@
 
 
 
-
-
-
-
-"
-
-
+ 

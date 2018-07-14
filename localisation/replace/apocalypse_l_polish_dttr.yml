@@ -2,3 +2,12 @@
 
  tech_ftl_inhibitor_desc:1 "Za pomocą projektorów studni grawitacyjnych można tworzyć zlokalizowane fragmenty przestrzeni, w których bezpieczne wejście w nadprzestrzeń jest niemożliwe. Ogromne wymagania energetyczne i rozmiary projektorów uniemożliwiają ich instalowanie w obiektach mniejszych niż baza gwiezdna. $tech_ftl_inhibitor_desc_dttr$"
 
+ tech_pk_cracker_desc:0 "$PLANET_KILLER_CRACKER_DESC$" $tech_pk_cracker_desc_dttr$
+
+ tech_pk_shielder_desc:0 "$PLANET_KILLER_SHIELDER_DESC$" $tech_pk_shielder_desc_dttr$
+
+ tech_pk_neutron_desc:0 "$PLANET_KILLER_NEUTRON_DESC$ $tech_pk_neutron_desc_dttr$"
+
+ tech_pk_godray_desc:1 "Tajemniczy katalizator wzmacniający pewne psioniczne długości fali, który może wywoływać halucynacje (objawienia religijne) w biologicznych mózgach i poważne zakłócenia (śmierć mózgową) w elektronicznych. $tech_pk_godray_desc_dttr$"
+
+ tech_pk_nanobots_desc:0 "$PLANET_KILLER_NANOBOTS$ $tech_pk_nanobots_desc_dttr$"
