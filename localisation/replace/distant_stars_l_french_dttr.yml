@@ -1,4 +1,6 @@
 ﻿l_french:
 
 tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
+tech_repeatable_lcluster_clue_desc:0 "Des études intensives dans les domaines de la nonomachinerie et des phénomènes subspatiaux finiront par livrer de nouveaux §Ydétails§! sur les mystères de la §Yporte-L désactivée§!. $tech_repeatable_lcluster_clue_desc_dttr$"
+tech_experimental_subspace_navigation_desc:0 "Les vaisseaux scientifiques isolés peuvent s'extraire des hyperlignes naturelles afin de tenter de naviguer vers des destinations connues mais autrement inaccessibles. $tech_experimental_subspace_navigation_desc_dttr$"
 

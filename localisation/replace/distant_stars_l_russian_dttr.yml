@@ -1,4 +1,6 @@
 ﻿l_russian:
 
 tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
+tech_repeatable_lcluster_clue_desc:0 "Интенсивное изучение наномашин и подпространственных феноменов в конце концов даст новые §Y$clue$§! о том, что представляют собой $lgate_disabled$ и какова их тайна. $tech_repeatable_lcluster_clue_desc_dttr$"
+tech_experimental_subspace_navigation_desc:0 "Одинокие научные корабли могут вырваться из гиперкоридоров естественного происхождения и попытаться добраться до известных, но иным образом недостижимых мест. $tech_experimental_subspace_navigation_desc_dttr$"
 

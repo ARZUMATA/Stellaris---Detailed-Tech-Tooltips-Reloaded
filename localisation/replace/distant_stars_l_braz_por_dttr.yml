@@ -1,4 +1,6 @@
 ﻿l_braz_por:
 
 tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
+tech_repeatable_lcluster_clue_desc:0 "Estudos intensivos nos campos de nanomáquinas e fenômenos subespaciais em algum momento darão uma nova §Y$clue$§! sobre o mistério do $lgate_disabled$. $tech_repeatable_lcluster_clue_desc_dttr$"
+tech_experimental_subspace_navigation_desc:0 "Naves Científicas Solitárias podem escapar das hiperestradas que ocorrem naturalmente e tentarem navegar para destinos conhecidos, mas inatingíveis de outra forma. $tech_experimental_subspace_navigation_desc_dttr$"
 

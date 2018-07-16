@@ -1,4 +1,6 @@
 ﻿l_spanish:
 
 tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
+tech_repeatable_lcluster_clue_desc:0 "El estudio intenso dentro de los campos de la nanomaquinaria y el fenómeno subespacial conducirá a una nueva §Y$clue$§! del misterio del $lgate_disabled$. $tech_repeatable_lcluster_clue_desc_dttr$"
+tech_experimental_subspace_navigation_desc:0 "Las naves científicas solitarias pueden separarse de las hipervías naturales e intentar navegar a destinos conocidos, pero inalcanzables de otro modo. $tech_experimental_subspace_navigation_desc_dttr$"
 

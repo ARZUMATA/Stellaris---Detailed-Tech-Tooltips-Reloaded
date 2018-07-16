@@ -2,3 +2,6 @@
 
 tech_lgate_activation_desc:0 "The L-Gates defy our current understanding of subspace mechanics. This must be remedied before they can be opened for travel. $tech_lgate_activation_desc_dttr$"
 
+tech_repeatable_lcluster_clue_desc:0 "Intensive study within the fields of nanomachinery and subspace phenomena will eventually yield a new §Y$clue$§! into the $lgate_disabled$ mystery. $tech_repeatable_lcluster_clue_desc_dttr$"
+
+tech_experimental_subspace_navigation_desc:0 "Solitary Science Ships can break out of the naturally-occurring hyperlanes and attempt to navigate to known but otherwise unreachable destinations. $tech_experimental_subspace_navigation_desc_dttr$"

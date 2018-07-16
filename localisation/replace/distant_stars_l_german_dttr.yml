@@ -1,4 +1,6 @@
 ﻿l_german:
 
 tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
+tech_repeatable_lcluster_clue_desc:0 "Intensive Studien auf dem Gebiet der Nanomechanik und der Subraumphänome können schließlich zu neuen §Y$clues$§! für das "$lgate_disabled$"-Mysterium führen. $tech_repeatable_lcluster_clue_desc_dttr$"
+tech_experimental_subspace_navigation_desc:0 "Einzelne Forschungsschiffe können aus bekannten Hyperraumrouten ausbrechen und versuchen zu bekannten, aber ansonsten unerreichbaren Zielen zu navigieren. $tech_experimental_subspace_navigation_desc_dttr$"
 
