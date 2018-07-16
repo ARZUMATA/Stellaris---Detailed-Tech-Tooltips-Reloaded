@@ -1,6 +1,9 @@
 ﻿l_russian:
 
-tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
-tech_repeatable_lcluster_clue_desc:0 "Интенсивное изучение наномашин и подпространственных феноменов в конце концов даст новые §Y$clue$§! о том, что представляют собой $lgate_disabled$ и какова их тайна. $tech_repeatable_lcluster_clue_desc_dttr$"
-tech_experimental_subspace_navigation_desc:0 "Одинокие научные корабли могут вырваться из гиперкоридоров естественного происхождения и попытаться добраться до известных, но иным образом недостижимых мест. $tech_experimental_subspace_navigation_desc_dttr$"
+ tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
+ tech_repeatable_lcluster_clue_desc:0 "Интенсивное изучение наномашин и подпространственных феноменов в конце концов даст новые §Y$clue$§! о том, что представляют собой $lgate_disabled$ и какова их тайна. $tech_repeatable_lcluster_clue_desc_dttr$"
+ tech_experimental_subspace_navigation_desc:0 "Одинокие научные корабли могут вырваться из гиперкоридоров естественного происхождения и попытаться добраться до известных, но иным образом недостижимых мест. $tech_experimental_subspace_navigation_desc_dttr$"
+ tech_mine_aldar_desc:0 "Нестабильный альдар встречается только вперемешку с более привычными рудами. Успешная добыча кристаллов альдара из этих минеральных матриц, без причинения значительного урона оборудованию и операторам, требует продвинутых автосенсорных систем. $tech_mine_aldar_desc_dttr$"
+ tech_nanite_repair_system_desc:0 "Высокоэффективная система авторемонта корпуса, состоящая из миллиардов микроскопических наномашин, была обнаружена среди дымящихся останков Мусорщика и переделана под наши цели. То ли Мусорщик вытянул эту систему из каких-то древних обломков, то ли она изначально входила в его конструкцию, это нам неизвестно. $tech_nanite_repair_system_desc_dttr$"
+ tech_neuroregeneration_desc:0 "При учете генома расы эта форма инженерии тканей приводит к интенсивным нейрорегенеративным свойствам, что значительно повышает развитие нейронов, аксонов и синапсов у реципиента. $tech_neuroregeneration_desc_dttr$"
 

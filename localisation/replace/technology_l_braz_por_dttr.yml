@@ -312,7 +312,6 @@
  tech_vitality_boosters_desc:1 "Quando o corpo falha, a ciência intervém. $tech_vitality_boosters_desc_dttr$"
  tech_wormhole_stabilization_desc:0 "Um buraco de minhoca subespecial que ocorre naturalmente é algo instável, e seus níveis de energia flutuantes tipicamente impossibilitam uma viagem segura entre suas aberturas conectadas. Porém, há maneiras de estabilizar sua matriz temporariamente. $tech_wormhole_stabilization_desc_dttr$"
  tech_zero_point_power_desc:0 "Esses geradores extraem energia do vácuo, fornecendo uma quantidade quase ilimitada de energia. Não existe maneira mais eficiente de gerar energia.\n\n $tech_zero_point_power_desc_dttr$"
-
  tech_dark_matter_propulsion_desc:0 "$SHIP_THRUSTER_5_DESC$ $tech_dark_matter_propulsion_desc_dttr$"
  tech_frontier_health_desc:0 "A colonização de mundos alienígenas abriu um campo totalmente novo de pesquisa biomédica.\n\n $tech_frontier_health_desc_dttr$"
  tech_global_research_initiative_desc:2 "Uma iniciativa para reservas de recursos interplanetários e bolsas de pesquisa mais flexíveis. $tech_global_research_initiative_desc_dttr$"
@@ -324,3 +323,7 @@
  tech_space_defense_station_1_desc:1 "Isso permitirá a construção de plataformas defensivas de espaço profundo para proteger nossas Bases Estelares. $tech_space_defense_station_1_desc_dttr$"
  tech_synthetic_workers_desc:0 "Robôs altamente avançados que são mais fortes, rápidos e duráveis que a grande maioria dos orgânicos. Com seus processadores neurais evoluídos, eles são totalmente capazes de operações independentes.\n\n $tech_synthetic_workers_desc_dttr$"
  tech_tb_quicksand_basin_desc:0 "Introduzir hidrogel desenvolvido para a estabilização permite uma solidificação quase instantânea de bacias de areia movediça.\n\n $tech_tb_quicksand_basin_desc_dttr$"
+ tech_collective_production_methods_desc:0 "Juntos, construímos o futuro. $tech_collective_production_methods_desc_dttr$"
+ tech_positronic_implants_desc:0 "Expandindo as possibilidades através da aplicação de cibernética limitada. $tech_positronic_implants_desc_dttr$"
+ tech_resource_processing_algorithms_desc:0 "Eficiência em todas as coisas. $tech_resource_processing_algorithms_desc_dttr$"
+

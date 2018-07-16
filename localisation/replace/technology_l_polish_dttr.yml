@@ -312,7 +312,6 @@
  tech_vitality_boosters_desc:1 "Gdy ciało zawodzi, nauka przychodzi z pomocą. $tech_vitality_boosters_desc_dttr$"
  tech_wormhole_stabilization_desc:0 "Naturalnie utworzony tunel czasoprzestrzenny jest niestabilny, a zmienne poziomy energii uniemożliwiają bezpieczne podróżowanie między jego dwoma krańcami. Istnieją jednak sposoby tymczasowej stabilizacji jego matrycy. $tech_wormhole_stabilization_desc_dttr$"
  tech_zero_point_power_desc:0 "Te generatory pobierają energię z próżni i są praktycznie nieograniczonym źródłem zasilania. Nie ma wydajniejszego sposobu wytwarzania energii.\n\n $tech_zero_point_power_desc_dttr$"
-
  tech_dark_matter_propulsion_desc:0 "$SHIP_THRUSTER_5_DESC$ $tech_dark_matter_propulsion_desc_dttr$"
  tech_frontier_health_desc:0 "Kolonizacja obcych światów otworzyła przed nami nowe możliwości badań biomedycznych.\n\n $tech_frontier_health_desc_dttr$"
  tech_global_research_initiative_desc:2 "Wezwanie do połączenia potencjału badawczego wszystkich planet i bardziej elastycznego finansowania badań. $tech_global_research_initiative_desc_dttr$"
@@ -324,3 +323,7 @@
  tech_space_defense_station_1_desc:1 "Umożliwia budowę gwiezdnych platform obronnych chroniących nasze bazy gwiezdne. $tech_space_defense_station_1_desc_dttr$"
  tech_synthetic_workers_desc:0 "Niezwykle zaawansowane roboty, silniejsze, szybsze i trwalsze od większości istot organicznych. Ich ulepszone procesory neuronowe pozwalają im działać całkowicie niezależnie.\n\n $tech_synthetic_workers_desc_dttr$"
  tech_tb_quicksand_basin_desc:0 "Zastosowanie hydrożelów opracowanych z myślą o stabilizacji umożliwia praktycznie natychmiastowe zestalenie się basenu ruchomych piasków.\n\n $tech_tb_quicksand_basin_desc_dttr$"
+ tech_collective_production_methods_desc:0 "Razem zbudujemy przyszłość. $tech_collective_production_methods_desc_dttr$"
+ tech_positronic_implants_desc:0 "Poszerzenie możliwości przez zastosowanie ograniczonej cybernetyki. $tech_positronic_implants_desc_dttr$"
+ tech_resource_processing_algorithms_desc:0 "Wydajność we wszystkim. $tech_resource_processing_algorithms_desc_dttr$"
+

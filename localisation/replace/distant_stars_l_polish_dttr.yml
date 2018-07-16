@@ -1,5 +1,9 @@
 ﻿l_polish:
 
-tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
-tech_repeatable_lcluster_clue_desc:0 "Intensywne badania w dziedzinie nanomaszyn i zjawisk podprzestrzennych sprawią, że pojawi się §Y$clue$§! odnośnie tajemnicy, jaką owiana jest $lgate_disabled$. $tech_repeatable_lcluster_clue_desc_dttr$"
-tech_experimental_subspace_navigation_desc:0 "Samodzielne statki badawcze mogą opuszczać naturalnie występujące hiperlinie i próbować dostać się do znanych, ale nieosiągalnych wcześniej miejsc docelowych. $tech_experimental_subspace_navigation_desc_dttr$"
+ tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
+ tech_repeatable_lcluster_clue_desc:0 "Intensywne badania w dziedzinie nanomaszyn i zjawisk podprzestrzennych sprawią, że pojawi się §Y$clue$§! odnośnie tajemnicy, jaką owiana jest $lgate_disabled$. $tech_repeatable_lcluster_clue_desc_dttr$"
+ tech_experimental_subspace_navigation_desc:0 "Samodzielne statki badawcze mogą opuszczać naturalnie występujące hiperlinie i próbować dostać się do znanych, ale nieosiągalnych wcześniej miejsc docelowych. $tech_experimental_subspace_navigation_desc_dttr$"
+ tech_mine_aldar_desc:0 "Niestabilny aldar występuje tylko w połączeniu z bardziej powszechnymi rudami. Udane pozyskanie kryształów aldaru z tych matryc mineralnych - bez poważnego uszkodzenia sprzętu i jego operatorów - wymaga użycia zaawansowanych maszyn autodotykowych. $tech_mine_aldar_desc_dttr$"
+ tech_nanite_repair_system_desc:0 "Wśród dymiących szczątków Złomiarza znaleziono bardzo wydajny system automatycznej naprawy kadłuba, składający się z miliardów mikroskopijnych nanomaszyn. Przystosowano go do naszych potrzeb, ale nie wiadomo, czy Złomiarz znalazł go w jednym z pokonanych okrętów, czy też był on częścią jego fabrycznego wyposażenia. $tech_nanite_repair_system_desc_dttr$"
+ tech_neuroregeneration_desc:0 "Po dostosowaniu do genomu naszego gatunku ta postać inżynierii tkankowej nadaje nerwom duże zdolności regeneracyjne, co znacznie przyspiesza rozwój neuronów, aksonów i synaps. $tech_neuroregeneration_desc_dttr$"
+

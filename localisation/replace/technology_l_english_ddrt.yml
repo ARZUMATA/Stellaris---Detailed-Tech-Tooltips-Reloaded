@@ -312,7 +312,6 @@
  tech_vitality_boosters_desc:1 "Where the body fails, science intervenes. $tech_vitality_boosters_desc_dttr$"
  tech_wormhole_stabilization_desc:0 "A naturally occurring subspace wormhole is a fickle thing, and its fluctuating energy levels typically make it impossible to travel safely between its linked apertures. There are ways to temporarily stabilize its matrix, however. $tech_wormhole_stabilization_desc_dttr$"
  tech_zero_point_power_desc:1 "These generators extract vacuum energy, providing an almost limitless supply of ship power. There is no more efficient way to generate energy. $tech_zero_point_power_desc_dttr$"
-
  tech_dark_matter_propulsion_desc:0 "$SHIP_THRUSTER_5_DESC$ $tech_dark_matter_propulsion_desc_dttr$"
  tech_frontier_health_desc:1 "The colonization of alien worlds has opened up an entirely new field of biomedical research. $tech_frontier_health_desc_dttr$"
  tech_global_research_initiative_desc:2 "A bid for interplanetary resource pools and more flexible research grants. $tech_global_research_initiative_desc_dttr$"
@@ -324,35 +323,10 @@
  tech_space_defense_station_1_desc:1 "This will enable the construction of defensive deep space platforms to protect our Starbases. $tech_space_defense_station_1_desc_dttr$"
  tech_synthetic_workers_desc:0 "Highly advanced robots that are stronger, faster and more durable than the vast majority of organics. With their upgraded neural processors they are fully capable of independent operations. $tech_synthetic_workers_desc_dttr$"
  tech_tb_quicksand_basin_desc:1 "The process of soil deposition normally takes millions of years. With advanced fracking, chemical engineering, and hydraulic management technologies even the poorest substrate can be turned into fertile topsoil. $tech_tb_quicksand_basin_desc_dttr$"
-
-
- ########################################################
- # ADD TO LOCALISATION FILES WITH NEXT PATCH
- ########################################################
- 
-
- ############################
- # ADD TO DLC LOCALISATION FILES WITH NEXT PATCH
- ############################
-
-
-
-
-
-
-
- ############################
- # ADD DESC TREE
- ############################
-
-
-
-# WHO GIVES THIS TECH
  tech_mine_aldar_desc:0 "Volatile Aldar is only found laced in more common ores. Successfully extracting Aldar crystals from these mineral matrices - without sustaining significant damage to equipment and operators - requires advanced auto-tactile machinery. $tech_mine_aldar_desc_dttr$"
+ tech_collective_production_methods_desc:0 "Together, we build the future. $tech_collective_production_methods_desc_dttr$"
+ tech_resource_processing_algorithms_desc:0 "Efficiency in all things. $tech_resource_processing_algorithms_desc_dttr$"
+ tech_neuroregeneration_desc:0 "When tailored to a species' genome, this form of tissue engineering has intensive neuroregenerative properties, significantly increasing the development of neurons, axons, and synapses in its recipient. $tech_neuroregeneration_desc_dttr$"
+ tech_nanite_repair_system_desc:0 "A highly effective hull auto-repair system comprised of billions of microscopic nanomachines was found among the smoking remains of the Scavenger, and has been repurposed for our uses. Whether the Scavenger pilfered this system from an ancient derelict, or was originally constructed with it remains unknown. $tech_nanite_repair_system_desc_dttr$"
+ tech_positronic_implants_desc:0 "Expanding possibilities through the application of limited cybernetics. $tech_positronic_implants_desc_dttr$"
 
-
- 
-
-
-
- 

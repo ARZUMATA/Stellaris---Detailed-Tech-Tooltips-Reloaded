@@ -1,6 +1,9 @@
 ﻿l_braz_por:
 
-tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
-tech_repeatable_lcluster_clue_desc:0 "Estudos intensivos nos campos de nanomáquinas e fenômenos subespaciais em algum momento darão uma nova §Y$clue$§! sobre o mistério do $lgate_disabled$. $tech_repeatable_lcluster_clue_desc_dttr$"
-tech_experimental_subspace_navigation_desc:0 "Naves Científicas Solitárias podem escapar das hiperestradas que ocorrem naturalmente e tentarem navegar para destinos conhecidos, mas inatingíveis de outra forma. $tech_experimental_subspace_navigation_desc_dttr$"
+ tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
+ tech_repeatable_lcluster_clue_desc:0 "Estudos intensivos nos campos de nanomáquinas e fenômenos subespaciais em algum momento darão uma nova §Y$clue$§! sobre o mistério do $lgate_disabled$. $tech_repeatable_lcluster_clue_desc_dttr$"
+ tech_experimental_subspace_navigation_desc:0 "Naves Científicas Solitárias podem escapar das hiperestradas que ocorrem naturalmente e tentarem navegar para destinos conhecidos, mas inatingíveis de outra forma. $tech_experimental_subspace_navigation_desc_dttr$"
+ tech_mine_aldar_desc:0 "O Aldar Volátil só é encontrado preso a minérios mais comuns. Extrair cristais Aldar com sucesso destas matrizes minerais, sem causar danos significativos ao equipamento e aos operadores, requer um maquinário auto-tátil avançado. $tech_mine_aldar_desc_dttr$"
+ tech_nanite_repair_system_desc:0 "Um sistema de auto-reparo de casco que consiste de bilhões de nanomáquinas microscópicas foi encontrado entre os restos fumegantes do Escavador, e foi reutilizado para nossos usos próprios. Não sabemos se o Escavador saqueou este sistema de um naufrágio antigo, ou se foi originalmente construído com ele. $tech_nanite_repair_system_desc_dttr$"
+ tech_neuroregeneration_desc:0 "Ao ser feito sob medida para o genoma de uma espécie, esta forma de engenharia de tecido possui propriedades neuroregenerativas intensivas, aumentando significativamente o desenvolvimento de neurônios, axônios e sinapses no seu destinatário. $tech_neuroregeneration_desc_dttr$"
 

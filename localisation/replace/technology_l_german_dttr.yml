@@ -312,7 +312,6 @@
  tech_vitality_boosters_desc:1 "Wo der Körper versagt, greift die Wissenschaft ein. $tech_vitality_boosters_desc_dttr$"
  tech_wormhole_stabilization_desc:0 "Ein natürlich vorkommendes Wurmloch ist ein unbeständiges Objekt und das schwankende Energieniveau macht es normalerweise unmöglich, sicher zwischen den Verbindungen zu reisen. Es gibt jedoch Möglichkeiten, seine Matrix vorübergehend zu stabilisieren. $tech_wormhole_stabilization_desc_dttr$"
  tech_zero_point_power_desc:0 "Diese Generatoren extrahieren Vakuum-Energie und stellen eine fast unerschöpfliche Energiequelle dar. Es gibt keine effizientere Methode der Energieerzeugung. $tech_zero_point_power_desc_dttr$"
-
  tech_dark_matter_propulsion_desc:0 "$SHIP_THRUSTER_5_DESC$ $tech_dark_matter_propulsion_desc_dttr$"
  tech_frontier_health_desc:1 "Die Kolonisierung von Alien-Welten hat ein gänzlich neues Feld der biomedizinischen Forschung eröffnet. $tech_frontier_health_desc_dttr$"
  tech_global_research_initiative_desc:2 "Bemühungen um interplanetare Ressourcenpools und flexiblere Forschungszuschüsse. $tech_global_research_initiative_desc_dttr$"
@@ -324,3 +323,7 @@
  tech_space_defense_station_1_desc:1 "Dies ermöglicht den Bau von Verteidigungsplattformen im Weltraum, um unsere Sternenbasen zu verteidigen. $tech_space_defense_station_1_desc_dttr$"
  tech_synthetic_workers_desc:0 "Modernste Roboter, die stärker, schneller und belastbarer als die meisten organischen Wesen sind. Aufgrund ihrer verbesserten Neuralprozessoren können sie absolut selbständig handeln. $tech_synthetic_workers_desc_dttr$"
  tech_tb_quicksand_basin_desc:1 "Die Einführung von Hydrogels zu Stabilisierungszwecken ermöglicht die fast augenblickliche Verfestigung von Treibsand-Bassins. $tech_tb_quicksand_basin_desc_dttr$"
+ tech_collective_production_methods_desc:0 "Zusammen errichten wir die Zukunft. $tech_collective_production_methods_desc_dttr$"
+ tech_positronic_implants_desc:0 "Die Erweiterung der Möglichkeiten durch die Anwendung begrenzter Kybernetik. $tech_positronic_implants_desc_dttr$"
+ tech_resource_processing_algorithms_desc:0 "Effizienz in allen Belangen. $tech_resource_processing_algorithms_desc_dttr$"
+

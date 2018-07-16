@@ -312,7 +312,6 @@
  tech_vitality_boosters_desc:1 "Où le corps faillit, la science agit. $tech_vitality_boosters_desc_dttr$"
  tech_wormhole_stabilization_desc:0 "Un trou de ver apparu de manière naturelle est quelque peu inconstant, et les fluctuations de ses niveaux d'énergie rendent le plus souvent impossible un voyage en toute sécurité entre ses deux ouvertures. Il y a cependant des moyens de stabiliser sa matrice de manière temporaire. $tech_wormhole_stabilization_desc_dttr$"
  tech_zero_point_power_desc:0 "Ces générateurs produisent de l'énergie à partir de rien, fournissant ainsi une alimentation quasi infinie. Il n'existe pas de méthode plus efficace pour générer de l'énergie.\n\n $tech_zero_point_power_desc_dttr$"
-
  tech_dark_matter_propulsion_desc:0 "$SHIP_THRUSTER_5_DESC$ $tech_dark_matter_propulsion_desc_dttr$"
  tech_frontier_health_desc:1 "La colonisation des mondes aliens a ouvert la voie à de nouvelles recherches biomédicales.\n\n $tech_frontier_health_desc_dttr$"
  tech_global_research_initiative_desc:2 "Cette initiative offre des réserves de ressources interplanétaires et des subventions de recherche plus flexibles. $tech_global_research_initiative_desc_dttr$"
@@ -324,3 +323,7 @@
  tech_space_defense_station_1_desc:1 "Permet la construction de plateformes spatiales défensives afin de protéger les bases stellaires. $tech_space_defense_station_1_desc_dttr$"
  tech_synthetic_workers_desc:0 "Robots très sophistiqués, plus forts, plus rapides et plus durables que la grande majorité des organiques. Avec leurs processeurs neuronaux améliorés, ils sont capables de mener des opérations variées en toute indépendance.\n\n $tech_synthetic_workers_desc_dttr$"
  tech_tb_quicksand_basin_desc:1 "L'introduction d'hydrogels à des fins de stabilisation permet la solidification quasi instantanée de bassins de sables mouvants.\n\n $tech_tb_quicksand_basin_desc_dttr$"
+ tech_collective_production_methods_desc:0 "À nous tous, nous bâtissons l'avenir. $tech_collective_production_methods_desc_dttr$"
+ tech_positronic_implants_desc:0 "Accroît les possibilités par l'application d'une cybernétique limitée. $tech_positronic_implants_desc_dttr$"
+ tech_resource_processing_algorithms_desc:0 "L'efficacité en toutes choses. $tech_resource_processing_algorithms_desc_dttr$"
+

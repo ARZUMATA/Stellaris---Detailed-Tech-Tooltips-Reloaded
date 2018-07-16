@@ -312,7 +312,6 @@
  tech_vitality_boosters_desc:0 "Там, где тело дает сбой, вмешивается наука. $tech_vitality_boosters_desc_dttr$"
  tech_wormhole_stabilization_desc:0 "Подпространственная червоточина естественного происхождения - штука нестабильная, а колебания ее уровней энергии обычно делают невозможным безопасное перемещение между выходами, которые она связывает. Однако есть способы временно стабилизировать ее матрицу. $tech_wormhole_stabilization_desc_dttr$"
  tech_zero_point_power_desc:0 "Эти реакторы извлекают энергию вакуума и являются почти бесконечным источником энергии. Нет более эффективного способа генерировать энергию. $tech_zero_point_power_desc_dttr$"
-
  tech_dark_matter_propulsion_desc:0 "$SHIP_THRUSTER_5_DESC$ $tech_dark_matter_propulsion_desc_dttr$"
  tech_frontier_health_desc:0 "Колонизация иных миров положила начало возникновению совершенно новой области биомедицинских исследований. $tech_frontier_health_desc_dttr$"
  tech_global_research_initiative_desc:0 "Запрос на межпланетные пулы ресурсов и более свободные гранты на исследования. $tech_global_research_initiative_desc_dttr$"
@@ -324,3 +323,7 @@
  tech_space_defense_station_1_desc:0 "Это позволит нам строить оборонительные платформы в глубоком космосе для защиты наших космических баз. $tech_space_defense_station_1_desc_dttr$"
  tech_synthetic_workers_desc:0 "Новейшие модели роботов сильнее, быстрее и прочнее, чем большинство органических существ. Их улучшенные нейронные процессоры позволяют им работать в автономном режиме. $tech_synthetic_workers_desc_dttr$"
  tech_tb_quicksand_basin_desc:0 "Процесс почвообразования длится в природе миллионы лет. С передовыми технологиями ректификации и управления мелиорацией даже самый бедный грунт мы можем превратить в плодородную почву. $tech_tb_quicksand_basin_desc_dttr$"
+ tech_collective_production_methods_desc:0 "Строим будущее вместе. $tech_collective_production_methods_desc_dttr$"
+ tech_positronic_implants_desc:0 "Ограниченное применение кибернетики открывает поистине неограниченные возможности. $tech_positronic_implants_desc_dttr$"
+ tech_resource_processing_algorithms_desc:0 "Эффективность во всем. $tech_resource_processing_algorithms_desc_dttr$"
+
