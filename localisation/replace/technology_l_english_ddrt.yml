@@ -1,5 +1,18 @@
 ﻿l_english:
  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ tech_dark_matter_power_core_desc:1 "These generators appear to somehow draw energy directly from dark matter, providing more ship power than should be possible according to the laws of physics. $tech_dark_matter_power_core_desc_dttr$"
+ tech_volatile_motes_desc:1 "Aside from the obvious safety concerns, the artificial creation of Volatile Motes is an extremely delicate and complicated process that requires highly specialized equipment. $tech_volatile_motes_desc_dttr$"
+
+ null_void_beam_desc:1 "By harnessing the entropic nature of the Null Void, this beam can actually destroy energy. $null_void_beam_desc_dttr$"
+ 
  tech_adaptive_bureaucracy_desc:1 "The progress we make calls for a new, nimbler form of administration that may aid rather than hinder us in our pursuits. $tech_adaptive_bureaucracy_desc_dttr$" #  The leaps/progress/discoveries we have made demand a new form of administrative system, one that can be shaped by opportunity rather than limit it.
  tech_adaptive_combat_algorithms_desc:0 "Organics often fight using illogical and unpredictable tactics that can be difficult to effectively counter. Adaptive tactics and new, more maneuverable warforms should provide a decisive advantage. $tech_adaptive_combat_algorithms_desc_dttr$"
  tech_administrative_ai_desc:0 "Organizational circuitry rerouting academic fervor. $tech_administrative_ai_desc_dttr$"
@@ -99,9 +112,9 @@
  tech_energy_lance_2_desc:1 "A more powerful version of the particle lance, this weapon fires a tachyon beam of immense power. Like its predecessor, its use is limited to battleships and titans. $tech_energy_lance_2_desc_dttr$"
  tech_energy_torpedoes_1_desc:2 "These energy projectiles consist of tightly concentrated protons capable of causing immense damage to the hull of enemy ships. $tech_energy_torpedoes_1_desc_dttr$"
  tech_energy_torpedoes_2_desc:1 "Upgraded energy projectiles that rely on neutrons instead of protons for their destructive power. $tech_energy_torpedoes_2_desc_dttr$"
- tech_engineering_lab_1_desc:0 "Advanced instrumentation allows for the study and practical application of physical systems at nanometric scales. $tech_engineering_lab_1_desc_dttr$"
- tech_engineering_lab_2_desc:0 "The production and understanding of supersolids are of immeasurable value to any and every space-age civilization. $tech_engineering_lab_2_desc_dttr$"
- tech_engineering_lab_3_desc:0 "The study of superfluidity promises to marry quantum mechanics with the fundamental interaction of gravity. $tech_engineering_lab_3_desc_dttr$"
+ tech_engineering_1_desc:0 "Advanced instrumentation allows for the study and practical application of physical systems at nanometric scales. $tech_engineering_1_desc_dttr$"
+ tech_engineering_2_desc:0 "The production and understanding of supersolids are of immeasurable value to any and every space-age civilization. $tech_engineering_2_desc_dttr$"
+ tech_engineering_3_desc:0 "The study of superfluidity promises to marry quantum mechanics with the fundamental interaction of gravity. $tech_engineering_3_desc_dttr$"
  tech_engos_vapor_desc:3 "A naturally occurring stimulant that helps all forms of life adapt and evolve. It can also be used as a very potent conductor for energy weapons. $tech_engos_vapor_desc_dttr$"
  tech_enigmatic_decoder_desc:1 "While producing average results in standard tests, the accuracy of Enigmatic Decoder's prediction algorithms seemingly increases as the target's flight path grows more erratic. $tech_enigmatic_decoder_desc_dttr$"
  tech_enigmatic_encoder_desc:1 "The Enigmatic Encoder scrambles flight path data according to some indeterminable design before feeding it back to fleet command. $tech_enigmatic_encoder_desc_dttr$"
@@ -191,9 +204,9 @@
  tech_pd_tracking_1_desc:0 "The best defense is a good offense. $tech_pd_tracking_1_desc_dttr$"
  tech_pd_tracking_2_desc:0 "Arrays of defensive armaments prove much more effective than independent countermeasures. $tech_pd_tracking_2_desc_dttr$"
  tech_pd_tracking_3_desc:0 "Advanced prediction greatly increases the accuracy of active countermeasure systems. $tech_pd_tracking_3_desc_dttr$"
- tech_physics_lab_1_desc:0 "Exploring the mediation of fundamental forces through subatomic particles. $tech_physics_lab_1_desc_dttr$"
- tech_physics_lab_2_desc:0 "The seemingly erratic behavior of tiny things can dramatically alter the way we think about bigger things. $tech_physics_lab_2_desc_dttr$"
- tech_physics_lab_3_desc:0 "Three dimensions, inextricable from the fourth. $tech_physics_lab_3_desc_dttr$"
+ tech_physics_1_desc:0 "Exploring the mediation of fundamental forces through subatomic particles. $tech_physics_1_desc_dttr$"
+ tech_physics_2_desc:0 "The seemingly erratic behavior of tiny things can dramatically alter the way we think about bigger things. $tech_physics_2_desc_dttr$"
+ tech_physics_3_desc:0 "Three dimensions, inextricable from the fourth. $tech_physics_3_desc_dttr$"
  tech_pitharan_dust_desc:3 "This fine dust is a naturally occurring stimulant found on some worlds. It has a calming effect on most beings, and can be used as a non-violent way of pacifying hostile individuals. $tech_pitharan_dust_desc_dttr$"
  tech_planetary_defenses_desc:0 "There may come a time when intellects, vast and cool and unsympathetic, regard our worlds with envy and draw plans against us. We must be ready. $tech_planetary_defenses_desc_dttr$"
  tech_planetary_government_desc:1 "Once a colony has been firmly established and pioneers turn into citizens, the need for a strong local government providing stability trumps the colonial need for flexibility. $tech_planetary_government_desc_dttr$"

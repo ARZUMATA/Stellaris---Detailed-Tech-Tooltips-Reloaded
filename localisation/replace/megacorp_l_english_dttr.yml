@@ -1,0 +1,13 @@
+﻿l_english:
+
+ tech_space_science_1:0 "Zero-G Laboratories"
+ tech_space_science_1_desc:0 "A lot of critical research can only be done in a zero gravity environment, which these specialized laboratories are eminently designed for. $tech_space_science_1_desc_dttr$"
+ tech_space_science_2:0 "Miniature Containment Fields"
+ tech_space_science_2_desc:0 "Containment force fields are excellent for isolating and holding various substances or specimens so they can be analyzed in detail. $tech_space_science_2_desc_dttr$"
+ tech_space_science_3:0 "Quantum Probes"
+ tech_space_science_3_desc:0 "Advanced probes that can thoroughly analyze subjects on a sub-atomic level, generating a wealth of valuable research data. $tech_space_science_3_desc_dttr$"
+ tech_space_science_4:0 "Autonomous Station Protocols"
+ tech_space_science_4_desc:0 "Increased automation of station functions will free up more staff for research duties. $tech_space_science_4_desc_dttr$"
+ tech_space_science_5:0 "Multi-Dimensional Analysis"
+ tech_space_science_5_desc:0 "Studying something from the limited perspective of a single dimensional reality does not paint the whole picture. Every angle must be considered. $tech_space_science_5_desc_dttr$"
+ tech_mine_volatile_motes:0 "Mote Stabilization"
