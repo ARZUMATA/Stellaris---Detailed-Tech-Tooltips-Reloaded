@@ -1,9 +1,8 @@
 ﻿l_spanish:
 
- tech_lgate_activation_desc:0 "$tech_lgate_activation_desc_dttr$"
- tech_repeatable_lcluster_clue_desc:0 "El estudio intenso dentro de los campos de la nanomaquinaria y el fenómeno subespacial conducirá a una nueva §Y$clue$§! del misterio del $lgate_disabled$. $tech_repeatable_lcluster_clue_desc_dttr$"
- tech_experimental_subspace_navigation_desc:0 "Las naves científicas solitarias pueden separarse de las hipervías naturales e intentar navegar a destinos conocidos, pero inalcanzables de otro modo. $tech_experimental_subspace_navigation_desc_dttr$"
- tech_mine_aldar_desc:0 "El volátil aldar solo se encuentra mezclado con minerales más comunes. Conseguir extraer aldar de esas matrices minerales sin que el equipo y los operarios resulten dañados requiere de una avanzada maquinaria autotáctil. $tech_mine_aldar_desc_dttr$"
- tech_nanite_repair_system_desc:0 "Entre los restos humeantes del Desguazador, hallamos un sistema de reparación automática del casco muy efectivo que comprende miles de millones de nanomáquinas microscópicas y que hemos reaprovechado. Seguimos sin saber si el Desguazador rapiñó este sistema de una nave abandonada o si fue construido con él. $tech_nanite_repair_system_desc_dttr$"
- tech_neuroregeneration_desc:0 "Cuando se adapta al genoma de una especie, esta forma de ingeniería de tejidos neuronales tiene grandes propiedades neurorregeneradoras y aumenta de manera significativa el desarrollo de neuronas, axones y sinapsis en el receptor. $tech_neuroregeneration_desc_dttr$"
-
+tech_experimental_subspace_navigation_desc:0 "Las naves científicas solitarias pueden separarse de las hipervías naturales e intentar navegar a destinos conocidos, pero inalcanzables de otro modo. $dttr_tech_experimental_subspace_navigation_desc$"
+tech_lgate_activation_desc:0 "Los Portales-L desafían nuestro conocimiento actual de las mecánicas subespaciales. Hay que remediar esto para poder viajar por ellos. $dttr_tech_lgate_activation_desc$"
+tech_mine_aldar_desc:0 "El volátil aldar solo se encuentra mezclado con minerales más comunes. Conseguir extraer aldar de esas matrices minerales sin que el equipo y los operarios resulten dañados requiere de una avanzada maquinaria autotáctil. $dttr_tech_mine_aldar_desc$"
+tech_nanite_repair_system_desc:0 "Entre los restos humeantes del Desguazador, hallamos un sistema de reparación automática del casco muy efectivo que comprende miles de millones de nanomáquinas microscópicas y que hemos reaprovechado. Seguimos sin saber si el Desguazador rapiñó este sistema de una nave abandonada o si fue construido con él. $dttr_tech_nanite_repair_system_desc$"
+tech_neuroregeneration_desc:0 "Cuando se adapta al genoma de una especie, esta forma de ingeniería de tejidos neuronales tiene grandes propiedades neurorregeneradoras y aumenta de manera significativa el desarrollo de neuronas, axones y sinapsis en el receptor. $dttr_tech_neuroregeneration_desc$"
+tech_repeatable_lcluster_clue_desc:0 "El estudio intenso dentro de los campos de la nanomaquinaria y el fenómeno subespacial conducirá a una nueva §Y$clue$§! del misterio del $lgate_disabled$. $dttr_tech_repeatable_lcluster_clue_desc$"

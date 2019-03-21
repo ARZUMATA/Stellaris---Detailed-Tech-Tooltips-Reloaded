@@ -1,13 +1,8 @@
 ﻿l_braz_por:
 
- tech_ftl_inhibitor_desc:1 "Projetores de poços de gravidade podem ser usados para criar bolsões localizados de espaço onde a entrada segura no hiperespaço é impossível. A imensa quantidade de poder necessária e o tamanho dos projetores proíbe o seu uso em qualquer coisa menor que uma base estelar. $tech_ftl_inhibitor_desc_dttr$"
-
- tech_pk_cracker_desc:0 "$PLANET_KILLER_CRACKER_DESC$" $tech_pk_cracker_desc_dttr$
-
- tech_pk_shielder_desc:0 "$PLANET_KILLER_SHIELDER_DESC$" $tech_pk_shielder_desc_dttr$
-
- tech_pk_neutron_desc:0 "$PLANET_KILLER_NEUTRON_DESC$ $tech_pk_neutron_desc_dttr$"
-
- tech_pk_godray_desc:1 "Um catalisador arcano que amplifica certos comprimentos de onda psiônicos, capazes de induzir alucinações (experiências religiosas) em cérebros biológicos, e uma interrupção severa (morte cerebral) em cérebros elétricos. $tech_pk_godray_desc_dttr$"
-
- tech_pk_nanobots_desc:0 "$PLANET_KILLER_NANOBOTS$ $tech_pk_nanobots_desc_dttr$"
+tech_ftl_inhibitor_desc:1 "Projetores de poços de gravidade podem ser usados para criar bolsões localizados de espaço onde a entrada segura no hiperespaço é impossível. A imensa quantidade de poder necessária e o tamanho dos projetores proíbe o seu uso em qualquer coisa menor que uma base estelar. $dttr_tech_ftl_inhibitor_desc$"
+tech_pk_cracker_desc:0 "$PLANET_KILLER_CRACKER_DESC$ $dttr_tech_pk_cracker_desc$"
+tech_pk_godray_desc:1 "Um catalisador arcano que amplifica certos comprimentos de onda psiônicos, capazes de induzir alucinações (experiências religiosas) em cérebros biológicos, e uma interrupção severa (morte cerebral) em cérebros elétricos. $dttr_tech_pk_godray_desc$"
+tech_pk_nanobots_desc:0 "$PLANET_KILLER_NANOBOTS$ $dttr_tech_pk_nanobots_desc$"
+tech_pk_neutron_desc:0 "$PLANET_KILLER_NEUTRON_DESC$ $dttr_tech_pk_neutron_desc$"
+tech_pk_shielder_desc:0 "$PLANET_KILLER_SHIELDER_DESC$ $dttr_tech_pk_shielder_desc$"

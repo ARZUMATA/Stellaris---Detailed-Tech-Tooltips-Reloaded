@@ -1,4 +1,4 @@
-﻿l_english:
+﻿l_simp_chinese:
 
  technology_tree_title:0 "\n\n\n\n\n"
 
@@ -6,16 +6,16 @@
  # For easier translation
  # ###################################
 
- technology_tree_header_unlocks:0 "§HUnlocks research leading to:§!"
- technology_tree_header_future:0 "\n§HFuture research follow up:§!"
+ technology_tree_header_unlocks:0 "§H解锁研究导致：§!"
+ technology_tree_header_future:0 "\n§H未来的研究跟进：§!"
 
- max_minerals_dttr:0 "Storage"
- max_energy_dttr:0 "Storage"
+ max_minerals_dttr:0 "容量"
+ max_energy_dttr:0 "容量"
 
  technology_tree_header_nothing:0 "£opinion  §L$TRADE_OFFER_NOTHING$...§!"
- technology_tree_note_raretech:0 "§M[Rare]§!"
- technology_tree_note_dangerous:0 "§R[Dangerous]§!"
- technology_tree_note_repeatable:0 "§E[Repeatable]§!"
+ technology_tree_note_raretech:0 "§M[罕见]§!"
+ technology_tree_note_dangerous:0 "§R[危险科技]§!"
+ technology_tree_note_repeatable:0 "§E[重复]§!"
 
  # ###################################
  # All below is same for every language

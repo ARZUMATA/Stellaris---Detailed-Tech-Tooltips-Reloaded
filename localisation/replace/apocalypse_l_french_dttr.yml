@@ -1,13 +1,8 @@
 ﻿l_french:
 
- tech_ftl_inhibitor_desc:1 "Les projecteurs de puits de gravité peuvent être utilisés pour créer des poches d'espace limitées, où l'entrée en hyperespace est impossible. L'énergie immense alors requise et la taille des projecteurs interdisent néanmoins leur usage sur n'importe quoi qui soit moins vaste qu'une base stellaire. $tech_ftl_inhibitor_desc_dttr$"
-
- tech_pk_cracker_desc:0 "$PLANET_KILLER_CRACKER_DESC$" $tech_pk_cracker_desc_dttr$
-
- tech_pk_shielder_desc:0 "$PLANET_KILLER_SHIELDER_DESC$" $tech_pk_shielder_desc_dttr$
-
- tech_pk_neutron_desc:0 "$PLANET_KILLER_NEUTRON_DESC$ $tech_pk_neutron_desc_dttr$"
-
- tech_pk_godray_desc:1 "Un catalyseur ésotérique amplifiant certaines longueurs d'onde psioniques et capable d'induire des hallucinations dans les cerveaux biologiques (expériences religieuses), et de graves défaillances dans les processeurs électroniques (dysfonctionnements divers). $tech_pk_godray_desc_dttr$"
-
- tech_pk_nanobots_desc:0 "$PLANET_KILLER_NANOBOTS$ $tech_pk_nanobots_desc_dttr$"
+tech_ftl_inhibitor_desc:1 "Les projecteurs de puits de gravité peuvent être utilisés pour créer des poches d'espace limitées, où l'entrée en hyperespace est impossible. L'énergie immense alors requise et la taille des projecteurs interdisent néanmoins leur usage sur n'importe quoi qui soit moins vaste qu'une base stellaire. $dttr_tech_ftl_inhibitor_desc$"
+tech_pk_cracker_desc:0 "$PLANET_KILLER_CRACKER_DESC$ $dttr_tech_pk_cracker_desc$"
+tech_pk_godray_desc:1 "Un catalyseur ésotérique amplifiant certaines longueurs d'onde psioniques et capable d'induire des hallucinations dans les cerveaux biologiques (expériences religieuses), et de graves défaillances dans les processeurs électroniques (dysfonctionnements divers). $dttr_tech_pk_godray_desc$"
+tech_pk_nanobots_desc:0 "$PLANET_KILLER_NANOBOTS$ $dttr_tech_pk_nanobots_desc$"
+tech_pk_neutron_desc:0 "$PLANET_KILLER_NEUTRON_DESC$ $dttr_tech_pk_neutron_desc$"
+tech_pk_shielder_desc:0 "$PLANET_KILLER_SHIELDER_DESC$ $dttr_tech_pk_shielder_desc$"
